@@ -2,53 +2,150 @@
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Jason Bak</title>
+    <title>Jason Bak | Welcome</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
 
+    <!-- Dynamic Drive Ultimate Fade-in slideshow (v2.6.1)-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- optional touchswipe file to enable swipping to navigate slideshow -->
+    <script type="text/javascript" src="jquery.touchSwipe.min.js"></script>
+
+    <style>
+
+    #fadeshow4 .gallerylayer img{ /* make all images inside fadeshow4 scale to 100% of slideshow width */
+    width: 100%;
+    height: auto;
+    }
+
+    </style>
+
+    <script type="text/javascript" src="fadeslideshow.js">
+
+    /***********************************************
+    * Ultimate Fade In Slideshow v2.0- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+    * Please keep this notice intact
+    * Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+    ***********************************************/
+
+    </script>
+
+    <script type="text/javascript">
+
+    var mygallery4=new fadeSlideShow({
+        wrapperid: "fadeshow4", //ID of blank DIV on page to house Slideshow
+        dimensions: ['100%', 350], //width/height of gallery in pixels. Should reflect dimensions of largest image
+        imagearray: [
+            ["img/me.jpg"],
+            ["img/marathon.jpg"],
+            ["img/hancock.jpg"]
+        ],
+        displaymode: {type:'auto', pause:0, cycles:0, wraparound:false},
+        persist: false, //remember last viewed slide and recall within same session?
+        fadeduration: 3000, //transition duration (milliseconds)
+        descreveal: "always",
+        togglerid: "fadeshow4toggler"
+    })
+
+    </script>
 </head>
 
 <body> 
     <!-- Page Content -->
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <h1>Jason Bak</h1>
-                <img src="img/me.jpg" style="width:325px;height:325px;">
+        <div class="modal-body row">
+            <h1>Jason Bak</h1>
+
+            <hr>
+
+            <!-- Photo slideshow -->
+            <div id="fadeshow4"></div>
+
+            <!-- Professional column -->  
+            <div class="col-md-8">
                 <h3>Professional info</h3>
-                    <p>I'm currently a legal software developer intern at Fulcrum GT in Chicago, Illinois.</p>
-                    <p>I'm in my third-year at Carnegie Mellon University studying statistics/machine learning as an undergraduate student.
+                    <p>I am a legal software developer intern at Fulcrum GT in Chicago, Illinois building ZooBoss from the ground-up. ZooBoss is a high-performance engine to provide powerful legal data inferencing capabilities. Using OWL, RDFS, and SPARQL, my team and I are working to create an ontology for our MarkLogic GraphDB, initially populated with data created using the C# code-first entity framework.
+                    <p>I am also in my third-year at Carnegie Mellon University studying statistics/machine learning as an undergraduate student.</p>
                     <ul>
                         <li><a href="./projects.html">Projects</a></li>
                         <li><a href="resume.pdf">Résumé</a></li>
                         <li><a href="//github.com/jasonbak">GitHub</a></li>
                         <li><a href="//www.linkedin.com/in/jasonjbak">LinkedIn</a></li>
                     </ul>
+            </div>
+
+            <!-- Life log column -->  
+            <div class="col-md-4">
+                <h3>Life log</h3>
+                    <table class='logtable' border='0' cellpadding='0' cellspacing='0'>
+
+                        <!-- Most recent 11 -->
+                        <tr><td class=col1><span class='logdate'>Jun 28</span></td><td class=col2>Finished reading Ready Player One.</td></tr>
+                        <tr><td class=col1><span class='logdate'>Jun 19</span></td><td class=col2>Techweek Chicago 2017 begins.</td></tr>
+                        <tr><td class=col1><span class='logdate'>Jun 20</span></td><td class=col2>Bethel Worship Night in Chicago.</td></tr>
+                        <tr><td class=col1><span class='logdate'>Jun 15</span></td><td class=col2>Accepted to ThinkChicago 2017.</td></tr>
+                        <tr><td class=col1><span class='logdate'>May 22</span></td><td class=col2>First day at Fulcrum GT.</td></tr>
+                        <tr><td class=col1><span class='logdate'>May 19</span></td><td class=col2>Landed in Chicago, Illinois.</td></tr>
+                        <tr><td class=col1><span class='logdate'>May 18</span></td><td class=col2>Great night with KUPC seniors.</td></tr>
+                        <tr><td class=col1><span class='logdate'>May 17</span></td><td class=col2>Second year officially finished.</td></tr>
+                        <tr><td class=col1><span class='logdate'>May 8</span></td><td class=col2>Caught up with Andrew Kwon over lunch.</td></tr>
+                        <tr><td class=col1><span class='logdate'>May 7</span></td><td class=col2>Ran the Pittsburgh Marathon.</td></tr>
+                        <tr><td class=col1><span class='logdate'>May 4</span></td><td class=col2>Accepted offer to TA CS 15-110.</td></tr>
+
+                        <tr ><td class=col1>&nbsp;</td><td class=col2><a href='./log.html'>More...</a></td></tr>
+                    </table>
+            </div>
+
+            <!-- Personal column -->  
+            <div class="col-md-4">                
                 <h3>Personal info</h3>
-                    <p> Outside of academia, I have interests in digital photography and long-distance running. I also dabble in a bit of guitar. Some things you might be looking for in this section:
+                    <p> Outside of academia, I have interests in digital photography and long-distance running. I also dabble in a bit of guitar and am a professional basketball player, who often merges dreams with reality. Some things you might be looking for in this section:</p>
                     <ul>
-                        <li><a href="https://www.flickr.com/photos/148890208@N02/">Photography portfolio</a></li>
-                        <li><a href="https://medium.com/@jasonjbak">Medium blog</a></li>
-                        <li><a href="https://facebook.com/jasonjbak">My Facebook</a></li>
+                        <li><a href="https://www.flickr.com/photos/148890208@N02/">Photography</a></li>
+                        <li><a href="https://open.spotify.com/user/jason.j.bak">Award-winning Spotify playlists</a></li>
+                        <li><a href="https://medium.com/@jasonjbak">Medium</a></li>
+                        <li><a href="https://facebook.com/jasonjbak">Facebook</a></li>
                     </ul>
+            </div>
+
+            <!-- Contact column-->
+            <div class="col-md-4">                
                 <h3>Contacting me</h3>
                     <p>My email address is my first name, the letter j, my last name at gmail.</p>
-                <h3>Last updated</h3>
-                    <p>June 20, 2017</p>
+                    <p>You can refer to my calendar below for my availability.</p>
+                    <ul>
+
+                        <li><a href="./calendar.html">Calendar</a></li>
+                    </ul>            
             </div>
+
+            <!-- Updated row-->
+            <div class="col-md-4">                
+                <h3>Last updated</h3>
+                    <p>July 6, 2017</p>
+            </div>
+
         </div>
-        <!-- /.row -->
+
 
     </div>
-    <!-- /.container -->
+
+    <!-- Footer -->
+    <footer class="footer text-center">
+        <div class="container">
+            <span> &copy; jason bak | 2017</span>
+        </div>
+    </footer>
+</div>
 
     <!-- jQuery Version 1.11.1 -->
     <script src="js/jquery.js"></script>
@@ -57,5 +154,4 @@
     <script src="js/bootstrap.min.js"></script>
 
 </body>
-
 </html>

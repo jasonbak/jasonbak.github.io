@@ -1,0 +1,18 @@
+
+
+table.logtable td.col1 { width: 100px; align='left'}
+table.logtable td.col2 { width: 460px; align='left'}
+
+.logdate {
+  font-size: 12px;
+  color: #999999; 
+  font-weight: bold;
+}
+
+
+.wikilink img {
+	border: 0px;
+	text-decoration: none;
+	border-style: none;
+
+}
