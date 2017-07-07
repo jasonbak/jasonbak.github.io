@@ -1,5 +1,4 @@
-
-
+/*Life log CSS*/
 table.logtable td.col1 { width: 100px; align='left'}
 table.logtable td.col2 { width: 460px; align='left'}
 
@@ -9,10 +8,10 @@ table.logtable td.col2 { width: 460px; align='left'}
   font-weight: bold;
 }
 
-
-.wikilink img {
-	border: 0px;
-	text-decoration: none;
-	border-style: none;
-
+/*Photography CSS*/
+.photo {
+	height: 50%;
+	width: 50%;
+	display: block;
+	margin: auto;
 }
