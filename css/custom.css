@@ -1,3 +1,17 @@
+/* This sets the overall frame for the site */
+body {
+	font-family: 'Karla', sans-serif;
+}
+
+
+/*Top banner CSS*/
+.banner {
+	width: 95%;
+	display: block;
+	margin: auto;
+}
+
+
 /*Life log CSS*/
 table.logtable td.col1 { width: 100px; align='left'}
 table.logtable td.col2 { width: 460px; align='left'}
@@ -8,10 +22,12 @@ table.logtable td.col2 { width: 460px; align='left'}
   font-weight: bold;
 }
 
+
 /*Photography CSS*/
 .photo {
-	height: 50%;
 	width: 50%;
+	height: 50%;
 	display: block;
 	margin: auto;
 }
+
