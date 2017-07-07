@@ -18,7 +18,7 @@
 
     <!-- Google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Karla" rel="stylesheet">
-    
+
     <!-- Google analytics -->
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -34,15 +34,16 @@
 <body> 
     <!-- Page Content -->
     <div class="container">
-        <h1>Code projects</h1>
+        <h1>Projects</h1>
         <p>This list includes every serious project I've ever started. Most of them have been built at hackathons to learn new technologies and some are are in active development.</p>
 
         <hr>
         <h2>In active development</h2>
 
         <h3>Running app</h3>
+        <h4>Technologies: [ Swift, Xcode ]</h4>
+        <h4>July 2017 @ Chicago, Illinois</h4>
         <p>For the past year, I've thought about building a running app with some minor features I would like implemented, such as a button to give you directions back to your starting point when lost on a run and to track and insert planned running route. No ambition to monetize this because I see no way of creating a sensible business model and strategic plan to penetrate the running app market--just a fun project to learn iOS development.</p>
-        <p>Technologies: [ Swift, Xcode ]</p>
         <ul>
             <li>
                 <a href="https://github.com/jasonbak">GitHub repository</a>
@@ -53,10 +54,11 @@
         <h2>Completed (or close enough)</h2>
 
         <h3>Nexus | Overall 2nd place @ HopHacks Spring '17</h3>
+        <h4>Technologies: [ Spark, Kafka, NLTK, Neo4j, ElasticSearch, Flask, Angular2 ]</h4>
+
         <h4>Feb 2017 @ Johns Hopkins University</h4>
         <p>Nexus streams data (both past and current) from New York Times articles and finds relationships between companies/people. Created by three other students and me at HopHacks 2017 (where it received the 2nd place prize), we created Nexus in the hopes that it can be used to uncover hidden insights and connections. Ever see Mr. Robot? A little bit like that, but completely legal.</p>
         <p>Streams and processes data from New York Times using Apache Spark and Kafka. The processed news is then tagged by StanfordNER (from the NLTK library) to create a list of all of the entities linked by each article. Fully processed articles are then stored into an ElasticSearch database, where it is connected to a front-end (built in AngularJS) via a RESTful API (Flask). Users can perform a full search on the database to investigate individual articles and subjects. Neo4j is used to construct the full interactive knowledge graph, where nodes represent companies/people and are connected by individual articles acting as edges.</p>
-        <p>Technologies: [ Spark, Kafka, NLTK, Neo4j, ElasticSearch, Flask, Angular2 ]</p>
         <ul>
             <li>
                 <a href="https://medium.com/@jasonjbak/building-nexus-a-legal-mr-robot-using-data-97878a5a4b1a">Technical documentation</a>
@@ -76,11 +78,12 @@
         </ul>
 
         <h3>Doug | APT Sponsor Prize @ TartanHacks Spring '17</h3>
+        <h4>Technologies: [ Django, api.ai, NLTK, Microsoft Cognitive Services ] </h4>
         <h4>Feb 2017 @ Carnegie Mellon University</h4>
+
         <p>Today's political climate is full of energy and strong opinions. But it's often difficult to channel this energy in an meaningful way. The knowledge bias is also very prevalent due to echo chambers throughout social media. So, we wanted to build a product that properly informs citizens about different perspectives in our political landscape, encourages them to reflect on their values, and get more involved in the political process.</p>
         <p>Doug provides a political news digest to the user upon request, and can even take search queries to further provide content related to a particular topic. It can provide bite-sized summaries of the latest events and policy decisions. Based on the citizen's interests and values, they can seamlessly contact their Senators, donate to causes, or get involved in local activism to make a difference. The end goal is to have Doug be a reliable friend that one can vent to and receive insight from.</p>
         <p>We used a Python/Django server that connected to an api.ai NLP engine, Facebook Messenger interface, machine learning models, and Microsoft Cognitive Services.</p>
-        <p>Technologies: [ Django, api.ai, NLTK, Microsoft Cognitive Services ] </p>     
         <ul>
             <li>
                 <a href="https://devpost.com/software/doug">Devpost</a>
@@ -88,10 +91,10 @@
         </ul>
 
         <h3>PasswordProtect |  Fundamentals of Programming and Computer Science Term Project</h3>
+        <h4>Technologies: [ Python ] </h4>     
         <h4>Apr 2016 @ Carnegie Mellon University</h4>
         <p>My term project in 15-112 Fundamentals of Programming and Computer Science at CMU was to do whatever the heck I wanted to. Built a feature vector recognizer to identify characters written by users in Tkinter. I did not do this alone! I heavily relied on the Greedy Point Match technique discussed in <a href="https://people.eecs.berkeley.edu/~fateman/msw/GreedyPointMatchWriteup.pdf">Greedy Point Match Handwriting Recognition</a>by <a href="http://www.stevenstanek.com/">Steven Stanek</a> and Woodley Packard from UC Berkeley. Thank you!</p>
         <p>Simply wanted to give machine learning a shot--the name initially piqued my interest. The (very messy) code is hosted on GitHub. I plan on trying my hand at a more mature implementation of the project that introduced me to ML.</p>
-        <p>Technologies: [ Python ] </p>     
         <ul>
             <li>
                 <a href="https://github.com/jasonbak/15112project">GitHub repository</a>
@@ -101,12 +104,26 @@
             </li>
         </ul>
 
+        <h3>Personal Website | jasonbak.me</h3>
+        <h4>Technologies: [ HTML/CSS, JaveScript ] </h4>     
+        <h4>July 2017 @ Chicago, Illinois</h4>
+        <p>I've been wanting to build and design my own website for some time now. Having full control over a personal photography and blog page was the initial draw to make this website. After a few paper prototypes and mid-fidelitiy mock-ups of the website, it turned into a way for me to realize and learn fundamentals of UI/UX fundamentals. I started coding and pivoted my design multiple times. My initial designs were cluttered and rittled with superfluous details. My iteration process was focused on making the UI as minimal as possible while conveying the same amount of information.</p>
+        <p>Albeit, all this is intuitive and simple for most people, but it wasn't for me. I'm glad I was able to learn these fundamentals with this fun project!</p>
+        <ul>
+            <li>
+                <a href="./assets/bak_jason_website_v1.pdf">Mid-fi mock-up v1</a>
+            </li>
+            <li>
+                <a href="./assets/bak_jason_website_v2.pdf">Mid-fi mock-up v2</a>
+            </li>
+        </ul>
+
         <h3>Experimental assessment of screen bias in an early Arctic air temperature time Series | JSHS National Finalist</h3>
         <h4>Jan 2014 - May 2015 @ Commack High School</h4>
         <p>Historical surface air temperature records used to reconstruct extended time series for climate studies often lack sufficient metadata to evaluate sources of bias in the recorded data. Occasionally, it is possible to reproduce the original environment to the extent that an objective measure of bias can be obtained and correction factors can be determined to increase the data’s accuracy. There exists a large collection of unanalyzed hourly air temperature data from September 1852 to July 1854 taken near Point Barrow, Alaska by officers of the HMS Plover using a thermometer encased in a radiation screen. This data set is especially valuable due to it being recorded extensively in a time and place where data are sparse. This location is only 3 km northeast from the present day location of a NOAA observatory recording meteorological measurements, presenting the opportunity to assess bias of the historical data in comparison to modern data. For this investigation, a platinum resistance thermometer inside a previously constructed replica of the Plover radiation screen was placed adjacent to the observatory’s sensors. Henceforth, surface air temperature time series were obtained from both the replica’s and observatory’s sensors. Data show that relative magnitudes of the biases associated with the Plover’s radiation screen are on average 0.35 °C and up to 2 °C, generally varying by the sun exposure of the screen. These seemingly small inaccuracies are significant in the context of climate change, which is on the scale of a few degrees. Our results indicate screen bias is very large and therefore the interpretation of this and similar Arctic historical temperature data first require correction factors to be implemented to the data set.</p>
         <ul>
             <li>
-                <a href="./papers/bak_jason_plover.pdf">Research paper</a>
+                <a href="./assets/bak_jason_plover.pdf">Research paper</a>
             </li>
         </ul>
 
@@ -124,12 +141,21 @@
         <p>Going through the repetitive process of finding and inputting data made us appreciate the beauty in data and how we can find that beauty through statistics. Again, the project wasn't amazing, but the spark for interest in data analysis that was ignited was wonderful. Additionally, I got a life-long friend through this project--I suppose shared pain is an amazing foundation for a relationship.</p>
         <ul>
             <li>
-                <a href="./papers/bak_jason_perioCorrelations.pdf">Research paper</a>
+                <a href="./assets/bak_jason_perioCorrelations.pdf">Research paper</a>
             </li>
         </ul>
     </div>
     <!-- /.container -->
 
+    <hr>
+
+    <!-- Footer -->
+    <footer class="footer text-center">
+        <div class="container">
+            <span> &copy; jason bak | 2017</span>
+        </div>
+    </footer>
+    
     <!-- jQuery Version 1.11.1 -->
     <script src="js/jquery.js"></script>
 
@@ -137,5 +163,4 @@
     <script src="js/bootstrap.min.js"></script>
 
 </body>
-
 </html>
