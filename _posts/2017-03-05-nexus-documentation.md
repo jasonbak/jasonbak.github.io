@@ -46,7 +46,7 @@ We want to spend the rest of tomorrow (or rather today) working productively, so
 
 **06:33** → We are adding more functionality to the website and trying to make it look nicer in these last-seconds (technically last-hours, but with how tired and fried everyone is, every hour might as well be as productive as 10 minutes normally is) touches to the website. In particular, we are trying to extend the Google Maps API functionality some more. Nikhil has, in the meantime, fully connected everything with Neo4j completely, and we now have our entire graph rendered!
 
-**08:29** → We submit and most of us take naps. We buillt a streaming system that can query our database in ElasticSearch that uses NLP and GraphDB in the backend. Hopefully, we wake up for presentations.
+**08:29** → We submit and most of us take naps. We built a streaming system that can query our database in ElasticSearch that uses NLP and GraphDB in the backend. Hopefully, we wake up for presentations.
 
 ## Results
 
