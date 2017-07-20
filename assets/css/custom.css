@@ -3,6 +3,11 @@ body {
 	font-family: 'Karla', sans-serif;
 }
 
+a:hover {
+  color: #33b771;
+  text-decoration: none;
+}
+
 
 /*Top banner CSS*/
 .banner {
@@ -31,21 +36,26 @@ table.logtable td.col2 { width: 460px; align='left'}
 	margin: auto;
 }
 
+/*Blog CSS*/
 .blog-list-title {
     font-size: 32px;
     vertical-align: middle;
     font-weight: bold;
     vertical-align: middle;
-    line-height: 20px; 
+    line-height: 27px; 
 }
 
 .blog-list-abstract {
     display: block;
     font-size: 18px;
     vertical-align: middle;
-    line-height: 20px; 
 }
 
 .blog-list-date {
     font-size: 16px;
+}
+
+.blog-photo {
+  width: 50%;
+  height: 50%;
 }
