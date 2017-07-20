@@ -1,6 +1,6 @@
 ---
-title: Embracing the journey
-abstract: Written during a time of immense personal insecurity and anxiousness, I reflect on my choice to switch pursuits from medicine to computer science and my goal to continually reflect on the past to perceive the present from the future. These thoughts are derived from a listening to Nemo Egg.
+title: EMRACING THE JOURNEY
+abstract: Written during a time of immense personal insecurity and anxiousness, I reflect on my choice to switch pursuits to computer science and my goal to continually reflect on the past to perceive the present from the future. These thoughts are derived from a listening to Nemo Egg.
 permalink: /nemo-egg-reflection
 layout: blog-post
 ---

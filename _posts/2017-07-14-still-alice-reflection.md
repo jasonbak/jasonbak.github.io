@@ -1,5 +1,5 @@
 ---
-title: A fuller life--a reflection on Still Alice
+title: A FULLER LIFE--THOUGHTS ON STILL ALICE
 abstract: Thoughts on one of my favorite books.
 permalink: /still-alice-reflection
 layout: blog-post

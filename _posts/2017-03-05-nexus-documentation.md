@@ -1,5 +1,5 @@
 ---
-title: Building Nexus--a legal Mr. Robot using data
+title: BUILDING NEXUS--A LEGAL MR. ROBOT USING DATA
 abstract: HopHacks's (Spring '17) 2nd place winning project’s building process documentation. In collaboration with Darren Geng, Hugh Han, and Nikhil Kulkarni.
 permalink: /nexus-documentation
 layout: blog-post

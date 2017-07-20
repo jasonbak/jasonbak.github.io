@@ -38,21 +38,26 @@ table.logtable td.col2 { width: 460px; align='left'}
 
 /*Blog CSS*/
 .blog-list-title {
-    font-size: 32px;
-    vertical-align: middle;
-    font-weight: bold;
-    vertical-align: middle;
-    line-height: 27px; 
+  font-size: 28px;
+  vertical-align: middle;
+  font-weight: bold;
+  vertical-align: middle;
+  line-height: 25px; 
+  margin: 1px;
+  padding: 0;
 }
 
 .blog-list-abstract {
-    display: block;
-    font-size: 18px;
-    vertical-align: middle;
+  display: block;
+  font-size: 17px;
+  vertical-align: middle;
 }
 
 .blog-list-date {
-    font-size: 16px;
+  color: #666666;
+  font-size: 17px;
+  margin: 0;
+  padding: 0;
 }
 
 .blog-photo {
