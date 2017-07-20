@@ -1,8 +1,9 @@
 ---
-title: BUILDING NEXUS--A LEGAL MR. ROBOT USING DATA
+title: "&amp;TextEdit"
+note-title: BUILDING NEXUS - A LEGAL MR. ROBOT USING DATA
 abstract: HopHacks's (Spring '17) 2nd place winning project’s building process documentation. In collaboration with Darren Geng, Hugh Han, and Nikhil Kulkarni.
-permalink: /nexus-documentation
-layout: blog-post
+permalink: /notes/nexus-documentation
+layout: note
 ---
 
 ## 02/17/16_Friday // HopHacks begins!
@@ -13,7 +14,7 @@ layout: blog-post
 The plan is to retrieve news articles (both past and present) from the New York Times using their API in real time using Apache Spark and Kafka while using NTLK for NLP. Neo4j will be used to construct the full interactive knowledge graph, where nodes represent entities and are connected by individual articles acting as edges. Since, we will have an enormous amount of data, we will use ElasticSearch for quick searching of entities and articles. Python and Flask will be used to build a RESTful API to query ElasticSearch. All this will be presented on a client-side web application using TypeScript and AngularJS 2.0. Oh boy! Hugh and I are on creating the front-end using Angular2. Darren and Nikhil creating the RESTful API using Flask.
 
 <center>
-	<img src="./assets/img/blog/nexus-architecture.jpeg" class="blog-photo"/>
+	<img src="/assets/img/notes/nexus-architecture.jpeg" class="notes-photo"/>
 </center>
 
 ## 02/18/16_Saturday 
@@ -59,11 +60,11 @@ We departed the HopHacks with satisfaction in what we were able to accomplish an
 
 [[ The Baltimore Sun ] College students show off power, creativity of software systems at Hopkins hackathon] [baltimore-sun]
 
+<center>
+	<img src="/assets/img/notes/nexus-team.jpeg" class="notes-photo"/>
+</center>
+
 [angular-framework]: http://akveo.com/ng2-admin/
 [technical.ly]: https://technical.ly/baltimore/2017/02/21/hophacks-spring-2017/
 [hub.jhu]: https://hub.jhu.edu/2017/02/20/hophacks-spring-2017-memory-app/
 [baltimore-sun]: http://www.baltimoresun.com/news/maryland/education/higher-ed/bs-md-johns-hopkins-hophacks-20170219-story.html
-
-<center>
-	<img src="./assets/img/blog/nexus-team.jpeg" class="blog-photo"/>
-</center>

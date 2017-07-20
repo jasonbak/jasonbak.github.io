@@ -1,8 +1,9 @@
 ---
-title: A REFLECTION ON RUNNING
+title: "&amp;TextEdit"
+note-title: A REFLECTION ON RUNNING
 abstract: Ran my first marathon a few days ago. Thought it would be appropriate to write about what it means to me.
-permalink: /running-reflection
-layout: blog-post
+permalink: /notes/running-reflection
+layout: note
 ---
 
 I started running in the summer 2014, when I was transitioning to my senior year in high school. There was a cute girl from my school who biked around my neighborhood, so I started running around the block hoping to bump into her and begin our fairytale adventure. Of course, I couldn’t just walk up to her and talk to her in school--impossible!
@@ -16,5 +17,5 @@ Running has given me a new way to understand my struggles and pursuits. My life 
 Each journey starts with a single step and mine is no different.
 
 <center>
-	<img src="./assets/img/blog/marathon.jpeg" class="blog-photo"/>
+	<img src="/assets/img/notes/marathon.jpeg" class="notes-photo"/>
 </center>

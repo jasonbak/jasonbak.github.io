@@ -1,8 +1,9 @@
 ---
-title: A FULLER LIFE--THOUGHTS ON STILL ALICE
+title: "&amp;TextEdit"
+note-title: A FULLER LIFE - THOUGHTS ON STILL ALICE
 abstract: Thoughts on one of my favorite books.
-permalink: /still-alice-reflection
-layout: blog-post
+permalink: /notes/still-alice-reflection
+layout: note
 ---
 
 My opinion is mine, and I can’t make it yours. However, I hope I can at least get you thinking about it.
@@ -26,5 +27,5 @@ I had to read about someone’s life ticking away at a faster rate than mine to 
 “This is your world. It’s full of more potential for pleasure, love, glory, beauty and bliss that can be comprehended. It even surprises you with misfortune so you can experience the full range of your explosive emotions, and so the good things are that much sweeter. Even better, nothing great comes easily. That would be hopelessly boring. You have thrilling hurdles to overcome at every corner in order to achieve greatness in this life.”
 
 <center>
-	<img src="./assets/img/blog/still-alice.jpeg" class="blog-photo"/>
+	<img src="/assets/img/notes/still-alice.jpeg" class="notes-photo"/>
 </center>

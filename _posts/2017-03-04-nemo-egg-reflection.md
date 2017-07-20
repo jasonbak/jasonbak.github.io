@@ -1,8 +1,9 @@
 ---
-title: EMRACING THE JOURNEY
+title: "&amp;TextEdit"
+note-title: EMRACING THE JOURNEY
 abstract: Written during a time of immense personal insecurity and anxiousness, I reflect on my choice to switch pursuits to computer science and my goal to continually reflect on the past to perceive the present from the future. These thoughts are derived from a listening to Nemo Egg.
-permalink: /nemo-egg-reflection
-layout: blog-post
+permalink: /notes/nemo-egg-reflection
+layout: note
 ---
 
 I listened to "[Nemo Egg] [nemo-egg]" from Finding Nemo today. I first watched the movie in elementary school and listening to the song caused me to reminisce simpler times. I recalled days spent passionately killing mushrooms and tree stumps in MapleStory, moments habitually annoying my two older sisters, and days in which every little detail was given to me. Every choice I made came with little consequence, and there was certainty in the success of all things I put my time into. These were much simpler times than my present reality. While listening to "[Nemo Egg] [nemo-egg]," I began thinking those were my “good days.”
@@ -20,7 +21,7 @@ The time I spent reflecting on my past was calming and freeing. I reminded mysel
 Live immersed in the present instead of wading in its surf by looking to the future. My good days were in the past but I’m also living them now!
 
 <center>
-	<img src="./assets/img/blog/hugh-and-me.jpeg" class="blog-photo"/>
+	<img src="/assets/img/notes/hugh-and-me.jpeg" class="notes-photo"/>
 </center>
 
 [nemo-egg]: https://www.youtube.com/watch?v=uYuXG0C2tsk
