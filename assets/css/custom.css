@@ -1,6 +1,6 @@
 /* This sets the overall frame for the site */
 body {
-	font-family: 'Karla', sans-serif;
+  font-family: 'Karla', sans-serif;
 }
 
 a:hover {
@@ -11,9 +11,9 @@ a:hover {
 
 /*Top banner CSS*/
 .banner {
-	width: 95%;
-	display: block;
-	margin: auto;
+  width: 95%;
+  display: block;
+  margin: auto;
 }
 
 
@@ -30,10 +30,10 @@ table.logtable td.col2 { width: 460px; align='left'}
 
 /*Photography CSS*/
 .photo {
-	width: 50%;
-	height: 50%;
-	display: block;
-	margin: auto;
+  width: 50%;
+  height: 50%;
+  display: block;
+  margin: auto;
 }
 
 /*Blog CSS*/
