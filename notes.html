@@ -1,20 +1,4 @@
 ---
 title: "&amp;TextEdit"
-layout: default
+layout: notes-list
 ---
-
-{% for post in site.posts %}
-<div class="modal-body row">
-  <div class="col-md-4">
-    <p class="notes-list-title"><a href="{{ post.url }}">{{ post.note-title }}</a></p>
-    <p class="notes-list-date">{{ post.date | date: "%B %-d, %Y" }}</p>
-  </div>
-  <div class="col-md-8">
-    <p class="notes-list-abstract">{{ post.abstract }}</p>
-  </div>
-
-</div>
-
-<hr>
-{% endfor %}
-

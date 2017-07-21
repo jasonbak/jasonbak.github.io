@@ -1,2 +1,5 @@
 title: Jason Bak
 markdown: kramdown
+
+collections:
+  projects:

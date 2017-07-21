@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+<h2 class="projects-list-headers">In active development</h2>
+{% for post in site.posts %}
+	{% if post.layout == "project" and post.status == "in-progress" %}
+		<div class="modal-body row">
+			<div class="col-md-12">
+				<p class="projects-list-title"><a href="{{ post.url }}">{{ post.project-title }}</a></p>
+			</div>
+			<div class="col-md-1">
+      	<img src="{{ post.photo-path }}" class="projects-list-photo"/>
+			</div>
+		  <div class="col-md-11">
+		    {% if post.recognitions != "none" %}
+					<p class="projects-list-recognitions">{{ post.recognitions }}</p>
+				{% endif %}
+				{% if post.recognitions-2 != "none" %}
+					<p class="projects-list-recognitions">★ {{ post.recognitions-2 }}</p>
+				{% endif %}
+				{% if post.recognitions-3 != "none" %}
+					<p class="projects-list-recognitions">★ {{ post.recognitions-3 }}</p>
+				{% endif %}	
+				{% if post.recognitions-4 != "none" %}
+					<p class="projects-list-recognitions">★ {{ post.recognitions-4 }}</p>
+				{% endif %}	
+				{% if post.recognitions-5 != "none" %}
+					<p class="projects-list-recognitions">★ {{ post.recognitions-5 }}</p>
+				{% endif %}	
+				{% if post.technologies != "none" %}
+					<p class="projects-list-technologies">[ {{ post.technologies }} ]</p>
+				{% endif %}	
+		    <p class="projects-list-abstract">{{ post.abstract }}</p>
+		  </div>
+		</div>
+	{% endif %}
+{% endfor %}
+
+<hr>
+
+<h2>Completed (or close enough)</h2>
+{% for post in site.posts %}
+	{% if post.layout == "project" and post.status == "completed" %}
+		<div class="modal-body row">
+			<div class="col-md-12">
+				<p class="projects-list-title"><a href="{{ post.url }}">{{ post.project-title }}</a></p>
+			</div>
+			<div class="col-md-1">
+      	<img src="{{ post.photo-path }}" class="projects-list-photo"/>
+			</div>
+		  <div class="col-md-11">
+		    {% if post.recognitions != "none" %}
+					<p class="projects-list-recognitions">★ {{ post.recognitions }}</p>
+				{% endif %}	
+				{% if post.recognitions-2 != "none" %}
+					<p class="projects-list-recognitions">★ {{ post.recognitions-2 }}</p>
+				{% endif %}	
+				{% if post.recognitions-3 != "none" %}
+					<p class="projects-list-recognitions">★ {{ post.recognitions-3 }}</p>
+				{% endif %}	
+				{% if post.recognitions-4 != "none" %}
+					<p class="projects-list-recognitions">★ {{ post.recognitions-4 }}</p>
+				{% endif %}	
+				{% if post.recognitions-5 != "none" %}
+					<p class="projects-list-recognitions">★ {{ post.recognitions-5 }}</p>
+				{% endif %}	
+				{% if post.technologies != "none" %}
+					<p class="projects-list-technologies">[ {{ post.technologies }} ]</p>
+				{% endif %}	
+		    <p class="projects-list-abstract">{{ post.abstract }}</p>
+		  </div>
+		</div>
+	{% endif %}
+{% endfor %}

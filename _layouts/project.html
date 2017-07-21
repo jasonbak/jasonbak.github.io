@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+{% capture nl %}
+{% endcapture %}
+
+<p class="project-title">{{ page.project-title }}</p>
+<br>
+{% if page.recognitions != "none" %}
+	<p class="project-recognitions">★ {{ page.recognitions }}</p>
+{% endif %}	
+{% if page.recognitions-2 != "none" %}
+	<p class="project-recognitions">★ {{ page.recognitions-2 }}</p>
+{% endif %}	
+{% if page.recognitions-3 != "none" %}
+	<p class="project-recognitions">★ {{ page.recognitions-3 }}</p>
+{% endif %}	
+{% if page.recognitions-4 != "none" %}
+	<p class="project-recognitions">★ {{ page.recognitions-4 }}</p>
+{% endif %}	
+{% if page.recognitions-5 != "none" %}
+	<p class="project-recognitions">★ {{ page.recognitions-5 }}</p>
+{% endif %}	
+{% if page.technologies != "none" %}
+	<p class="project-technologies">[ {{ page.technologies }} ]</p>
+{% endif %}	
+{% if page.collaborators != "none" %}
+	<p class="project-collaborators">{{ page.collaborators }}</p>
+{% endif %}	
+<p class="project-date">{{ page.time-active | time-active: "%B %-d, %Y" }}</p>
+<br>
+<p class="project-abstract">{{ page.abstract }}</p>
+
+<br>
+
+{{ content }}

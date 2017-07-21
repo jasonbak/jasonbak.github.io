@@ -17,5 +17,5 @@ Running has given me a new way to understand my struggles and pursuits. My life 
 Each journey starts with a single step and mine is no different.
 
 <center>
-	<img src="/assets/img/notes/marathon.jpeg" class="notes-photo"/>
+	<img src="/assets/img/notes/marathon.jpeg" class="note-photo"/>
 </center>

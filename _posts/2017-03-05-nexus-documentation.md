@@ -14,7 +14,7 @@ layout: note
 The plan is to retrieve news articles (both past and present) from the New York Times using their API in real time using Apache Spark and Kafka while using NTLK for NLP. Neo4j will be used to construct the full interactive knowledge graph, where nodes represent entities and are connected by individual articles acting as edges. Since, we will have an enormous amount of data, we will use ElasticSearch for quick searching of entities and articles. Python and Flask will be used to build a RESTful API to query ElasticSearch. All this will be presented on a client-side web application using TypeScript and AngularJS 2.0. Oh boy! Hugh and I are on creating the front-end using Angular2. Darren and Nikhil creating the RESTful API using Flask.
 
 <center>
-	<img src="/assets/img/notes/nexus-architecture.jpeg" class="notes-photo"/>
+	<img src="/assets/img/notes/nexus-architecture.jpeg" class="note-photo"/>
 </center>
 
 ## 02/18/16_Saturday 
@@ -61,7 +61,7 @@ We departed the HopHacks with satisfaction in what we were able to accomplish an
 [[ The Baltimore Sun ] College students show off power, creativity of software systems at Hopkins hackathon] [baltimore-sun]
 
 <center>
-	<img src="/assets/img/notes/nexus-team.jpeg" class="notes-photo"/>
+	<img src="/assets/img/notes/nexus-team.jpeg" class="note-photo"/>
 </center>
 
 [angular-framework]: http://akveo.com/ng2-admin/
