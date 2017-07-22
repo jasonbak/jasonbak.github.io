@@ -8,27 +8,51 @@ layout: default
 <p class="project-title">{{ page.project-title }}</p>
 <br>
 {% if page.recognitions != "none" %}
-	<p class="project-recognitions">★ {{ page.recognitions }}</p>
+	<p class="project-recognitions">
+		<i class="fa fa-trophy" aria-hidden="true"></i> 
+		{{ page.recognitions }}
+	</p>
 {% endif %}	
 {% if page.recognitions-2 != "none" %}
-	<p class="project-recognitions">★ {{ page.recognitions-2 }}</p>
+	<p class="project-recognitions">
+		<i class="fa fa-trophy" aria-hidden="true"></i> 
+		{{ page.recognitions-2 }}
+	</p>
 {% endif %}	
 {% if page.recognitions-3 != "none" %}
-	<p class="project-recognitions">★ {{ page.recognitions-3 }}</p>
+	<p class="project-recognitions">
+		<i class="fa fa-trophy" aria-hidden="true"></i> 
+		{{ page.recognitions-3 }}
+	</p>
 {% endif %}	
 {% if page.recognitions-4 != "none" %}
-	<p class="project-recognitions">★ {{ page.recognitions-4 }}</p>
+	<p class="project-recognitions">
+		<i class="fa fa-trophy" aria-hidden="true"></i> 
+		{{ page.recognitions-4 }}
+	</p>
 {% endif %}	
 {% if page.recognitions-5 != "none" %}
-	<p class="project-recognitions">★ {{ page.recognitions-5 }}</p>
+	<p class="project-recognitions">
+		<i class="fa fa-trophy" aria-hidden="true"></i> 
+		{{ page.recognitions-5 }}
+	</p>
 {% endif %}	
 {% if page.technologies != "none" %}
-	<p class="project-technologies">[ {{ page.technologies }} ]</p>
+	<p class="project-technologies">
+		<i class="fa fa-code" aria-hidden="true"></i>
+		[ {{ page.technologies }} ]
+	</p>
 {% endif %}	
 {% if page.collaborators != "none" %}
-	<p class="project-collaborators">{{ page.collaborators }}</p>
+	<p class="project-collaborators">
+		<i class="fa fa-users" aria-hidden="true"></i>
+		{{ page.collaborators }}
+	</p>
 {% endif %}	
-<p class="project-date">{{ page.time-active | time-active: "%B %-d, %Y" }}</p>
+<p class="project-date">
+	<i class="fa fa-calendar" aria-hidden="true"></i>
+	{{ page.time-active | time-active: "%B %-d, %Y" }}
+</p>
 <br>
 <p class="project-abstract">{{ page.abstract }}</p>
 
