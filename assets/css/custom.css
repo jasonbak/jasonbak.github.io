@@ -3,10 +3,19 @@
 body {
   font-family: 'Karla', sans-serif;
 }
+a{
+  color: #6b93f2;
+}
 
 a:hover {
   color: #33b771;
   text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 19px;
+  padding: 0;
 }
 
 /*----------------------------------------------------------------------------*/
@@ -61,7 +70,7 @@ table.logtable td.col2 { width: 460px; align='left'}
 
 .note-title {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 40px;
+  font-size: 35px;
   text-align: center;
   font-weight: bold;
   margin: 0;
@@ -69,18 +78,18 @@ table.logtable td.col2 { width: 460px; align='left'}
 }
 
 .note-abstract {
-  font-size: 20px;
+  font-size: 17px;
   text-align: center;
   border-style: solid;
   border-width: 1px;
-  padding-top: 20px;
-  padding-right: 20px;
-  padding-bottom: 20px;
-  padding-left: 20px;
+  padding-top: 18px;
+  padding-right: 18px;
+  padding-bottom: 18px;
+  padding-left: 18px;
 }
 
 .note-date {
-  font-size: 20px;
+  font-size: 22px;
   text-align: center;
   margin: 0;
   padding: 0;
@@ -150,7 +159,7 @@ table.logtable td.col2 { width: 460px; align='left'}
 }
 
 .project-abstract {
-  font-size: 18px;
+  font-size: 17px;
   text-align: center;
   border-style: solid;
   border-width: 1px;
@@ -161,7 +170,7 @@ table.logtable td.col2 { width: 460px; align='left'}
 }
 
 .project-date {
-  font-size: 18px;
+  font-size: 17px;
   margin: 0;
   padding: 0;
 }
@@ -174,19 +183,19 @@ table.logtable td.col2 { width: 460px; align='left'}
 }
 
 .project-recognitions {
-  font-size: 18px;
+  font-size: 17px;
   margin: 0;
   padding: 0;
 }
 
 .project-technologies {
-  font-size: 18px;
+  font-size: 17px;
   margin: 0;
   padding: 0;
 }
 
 .project-collaborators {
-  font-size: 18px;
+  font-size: 17px;
   margin: 0;
   padding: 0;
 }

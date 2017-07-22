@@ -18,8 +18,6 @@ I had countless terrible memories before going off to university, yet when I rem
 
 The time I spent reflecting on my past was calming and freeing. I reminded myself I currently have an enormous potential to steer my life in whatever direction I want due to the opportunities available and the guidance of others around me. I am anxious if I will be able to progress in these upcoming years to reach a point in which I can satisfactorily reflect on the work I put in to achieve my accomplishments. With this in the back of my mind, I hope I can continually recognize my good days were in the past but I am also living them now!
 
-<center>
-	<img src="/assets/img/notes/hugh-and-me.jpeg" class="note-photo"/>
-</center>
+![Hugh and me in Washington D.C.](/assets/img/notes/hugh-and-me.jpg){:class="project-photo"}
 
 [nemo-egg]: https://www.youtube.com/watch?v=uYuXG0C2tsk

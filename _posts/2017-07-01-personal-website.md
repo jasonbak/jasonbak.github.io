@@ -1,7 +1,7 @@
 ---
 title: Projects
-project-title: Personal website written from scratch
-abstract: This website serves mainly as a professional portfolio for potential employers and a photography portfolio to potential clients. I include a blog using Jekyll in hopes it will provide some positive change in their lives. I outline most of the technologies and libraries used to build this website for guidance to others who would like to learn about them for their own purposes.
+project-title: Personal software and photography portfolio
+abstract: This website serves mainly as a professional software and photography portfolio for potential employers/clients. I include a blog using Jekyll in hopes it will provide some positive change in their lives. I outline most of the technologies and libraries used to build this website for guidance to others who would like to learn about them for their own purposes.
 recognitions: none
 recognitions-2: none
 recognitions-3: none
@@ -10,7 +10,7 @@ recognitions-5: none
 technologies: Jekyll | HTML/CSS | JavaScript
 collaborators: none
 time-active: Jul 2017 @ Chicago, Illinois
-photo-path: /assets/img/projects/list_personal-website.jpeg
+photo-path: /assets/img/projects/list_personal-website.jpg
 status: in-progress
 permalink: /projects/personal-website
 layout: project
@@ -22,8 +22,10 @@ With [Jekyll] [jekyll], I developed seven page layouts: homepage, default, media
 
 I used a jQuery plug-in called [fotoroma] [fotoroma] for my [photography](/photography.html) and [DOGE](/doge.html) pages. I'm currently thinking of ways to drastically improve the photography page.
 
-* [Mid-fi mock-up v1](/doc/bak_jason_website_v1.pdf)
-* [Mid-fi mock-up v2](/doc/bak_jason_website_v2.pdf)
+* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Mid-fi mock-up v1](/doc/bak_jason_website_v1.pdf)
+* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Mid-fi mock-up v2](/doc/bak_jason_website_v2.pdf)
+* <i class="fa fa-github" aria-hidden="true"></i> [GitHub repository] [github]
 
 [fotoroma]: http://fotorama.io/
 [jekyll]: https://jekyllrb.com
+[github]: https://github.com/jasonbak/jasonbak.github.io

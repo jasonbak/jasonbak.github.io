@@ -1,8 +1,8 @@
 ---
 title: "&amp;TextEdit"
 note-title: RULE UTILITARINISM APPLIED TO ACADEMINC INTEGRITY
-abstract: 
-Carnegie Mellon is a big investment, so you should make the most out of it. As a representation of your educational institute, breaking academic integrity is harmful to the community you're in and to yourself.
+abstract: Carnegie Mellon is a big investment, so you should make the most out of it. As a representation of your educational institute, breaking academic integrity is harmful to the community you're in and to yourself.
+permalink: /notes/academic-integrity
 layout: note
 ---
 

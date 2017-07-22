@@ -10,7 +10,7 @@ recognitions-5: none
 technologies: Python
 collaborators: none
 time-active: Apr 2016 @ Carnegie Mellon University
-photo-path: /assets/img/projects/list_passwordProtect.jpeg
+photo-path: /assets/img/projects/list_passwordProtect.jpg
 status: completed
 permalink: /projects/password-protect
 layout: project
@@ -20,8 +20,8 @@ PasswordProtect was my 15-112 Fundamentals of Programming and Computer Science t
 
 I built a feature vector recognizer to identify character glyphs written by users in Tkinter. I did not do this alone! I heavily relied on the Greedy Point Match technique discussed in [Greedy Point Match Handwriting Recognition] [research-paper] by [Steven Stanek] [stanek] and Woodley Packard from UC Berkeley. 
 
-* [GitHub repository] [GitHub]
-* [Video documentation] [video]
+* <i class="fa fa-youtube" aria-hidden="true"></i> [Video documentation] [video]
+* <i class="fa fa-github" aria-hidden="true"></i> [GitHub repository] [GitHub]
 
 [research-paper]: https://people.eecs.berkeley.edu/~fateman/msw/GreedyPointMatchWriteup.pdf
 [stanek]: http://www.stevenstanek.com
