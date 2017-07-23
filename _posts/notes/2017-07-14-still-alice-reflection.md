@@ -26,4 +26,4 @@ I had to read about someone’s life ticking away at a faster rate than mine to 
 
 > “This is your world. It’s full of more potential for pleasure, love, glory, beauty and bliss that can be comprehended. It even surprises you with misfortune so you can experience the full range of your explosive emotions, and so the good things are that much sweeter. Even better, nothing great comes easily. That would be hopelessly boring. You have thrilling hurdles to overcome at every corner in order to achieve greatness in this life.”
 
-![Still Alice](/assets/img/notes/still-alice.jpg){:class="project-photo"}
+![Still Alice](/assets/img/notes/still-alice.jpg){:class="note-photo"}

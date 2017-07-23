@@ -13,7 +13,7 @@ layout: note
 **23:01** → Finally done brainstorming. We settled on an idea to analyze NYT articles for connecting keywords to reveal hidden connections between companies and politicians — sort of like a Mr. Robot. We are calling it Cortex for now. Cortex does not fit into a category for a sponsor prize, but we are not going for a prize — we just want to learn as much as possible this weekend
 The plan is to retrieve news articles (both past and present) from the New York Times using their API in real time using Apache Spark and Kafka while using NTLK for NLP. Neo4j will be used to construct the full interactive knowledge graph, where nodes represent entities and are connected by individual articles acting as edges. Since, we will have an enormous amount of data, we will use ElasticSearch for quick searching of entities and articles. Python and Flask will be used to build a RESTful API to query ElasticSearch. All this will be presented on a client-side web application using TypeScript and AngularJS 2.0. Oh boy! Hugh and I are on creating the front-end using Angular2. Darren and Nikhil creating the RESTful API using Flask.
 
-![Nexus architecture](/assets/img/notes/nexus-architecture.jpg){:class="project-photo"}
+![Nexus architecture](/assets/img/notes/nexus-architecture.jpg){:class="note-photo"}
 
 ## 02/18/16_Saturday 
 
@@ -46,6 +46,8 @@ We want to spend the rest of tomorrow (or rather today) working productively, so
 
 **08:29** → We submit and most of us take naps. We built a streaming system that can query our database in ElasticSearch that uses NLP and GraphDB in the backend. Hopefully, we wake up for presentations.
 
+![Nexus](/assets/img/projects/nexus.jpg){:class="note-photo"}
+
 ## Results
 
 We departed the HopHacks with satisfaction in what we were able to accomplish and ill-feelings towards not learning Angular2 formally. We were pleasantly surprised to receive 2nd place overall in our sleep-deprived states!
@@ -58,7 +60,7 @@ We departed the HopHacks with satisfaction in what we were able to accomplish an
 
 [[ The Baltimore Sun ] College students show off power, creativity of software systems at Hopkins hackathon] [baltimore-sun]
 
-![Nexus architecture](/assets/img/notes/nexus-team.jpg){:class="project-photo"}
+![Nexus team](/assets/img/notes/nexus-team.jpg){:class="note-photo"}
 
 [angular-framework]: http://akveo.com/ng2-admin/
 [technical.ly]: https://technical.ly/baltimore/2017/02/21/hophacks-spring-2017/

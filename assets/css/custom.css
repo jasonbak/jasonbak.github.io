@@ -175,7 +175,21 @@ table.logtable td.col2 { width: 460px; align='left'}
   padding: 0;
 }
 
-.project-photo {
+.project-photo-left {
+  width: 50%;
+  height: 50%;
+  display: inline;
+  float: left;
+}
+
+.project-photo-right {
+  width: 50%;
+  height: 50%;
+  display: inline;
+  float: right;
+}
+
+.project-photo-center {
   width: 50%;
   height: 50%;
   display: block;

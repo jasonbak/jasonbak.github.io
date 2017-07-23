@@ -22,7 +22,7 @@ I asked a local dentist, [Bonnie Helfner] [helfner], I was interning for if she 
 
 Dan and I then had to manually digitize this data onto Microsoft Excel. Inputting (and verifying inputs) data for each of the 56 patients took around 30 minutes each (once we got good at it!). The image below is a section of our database.
 
-![Periodontal database](/assets/img/projects/perio-database.jpg){:class="project-photo"}
+![Periodontal database](/assets/img/projects/perio-database.jpg){:class="project-photo-center"}
 
 Even though this process was terribly boring, calculating significant p-values allowed Dan and I to finally saw the statistical fruits of our labor! Some part of those seemingly disconnected number we were inputting into Excel were actually connected in a beautiful way according to our analyses.
 

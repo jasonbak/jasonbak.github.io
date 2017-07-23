@@ -27,3 +27,5 @@ I built a feature vector recognizer to identify character glyphs written by user
 [stanek]: http://www.stevenstanek.com
 [GitHub]: https://github.com/jasonbak/15112project
 [video]: https://www.youtube.com/watch?v=bNkPA50DM9E
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/26zz7zWXDYDaf31M4" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/26zz7zWXDYDaf31M4"></a></p>

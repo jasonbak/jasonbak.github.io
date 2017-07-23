@@ -16,4 +16,4 @@ Running has given me a new way to understand my struggles and pursuits. My life 
 
 Each journey starts with a single step and mine is no different.
 
-![Me @ Pittsburgh Marathon 2017](/assets/img/notes/marathon.jpg){:class="project-photo"}
+![Me @ Pittsburgh Marathon 2017](/assets/img/notes/marathon.jpg){:class="note-photo"}
