@@ -22,6 +22,8 @@ With [Jekyll] [jekyll], I developed seven page layouts: homepage, default, media
 
 I used a jQuery plug-in called [fotoroma] [fotoroma] for my [photography](/photography.html) and [DOGE](/doge.html) pages. I'm currently thinking of ways to drastically improve the photography page.
 
+I used [fontawesome.io] [fontawesome.io] for the aesthetic icons you see throughout the website.
+
 * <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Mid-fi mock-up v1](/assets/doc/bak_jason_website_v1.pdf)
 * <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Mid-fi mock-up v2](/assets/doc/bak_jason_website_v2.pdf)
 * <i class="fa fa-github" aria-hidden="true"></i> [GitHub repository] [github]
@@ -29,4 +31,5 @@ I used a jQuery plug-in called [fotoroma] [fotoroma] for my [photography](/photo
 [fotoroma]: http://fotorama.io/
 [yaml]: http://jekyllrb.com/docs/frontmatter/
 [jekyll]: https://jekyllrb.com
+[fontawesome.io]: fontawesome.io
 [github]: https://github.com/jasonbak/jasonbak.github.io

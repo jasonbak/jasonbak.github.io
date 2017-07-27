@@ -52,13 +52,23 @@
         <h1>
           <a href="/index.html">{{ site.title }}</a> // 
           <!-- Following 4 lines are magic -->
+          <span id="software-engineer"></span>
+          <span id="photographer">& photographer</span>
+        </h1>
+      </div>
+<!-- 
+
           <div id="typed-strings">
             <h1>software engineer </h1>
           </div>
           <span id="typed"></span>
-          & photographer
+          <h1>& photographer</h1>
+          <span id="photograper"></span>
         </h1>
       </div>
+ -->
+
+
       <div class="col-md-2" align="right">
         <a href="/projects.html"><i class="fa fa-heart" aria-hidden="true"></i> Projects</a>
         <br>
@@ -74,7 +84,7 @@
         <hr>
       </div>
 
-      <img src="/assets/img/me.jpg" class="banner"/>
+      <!-- <img src="/assets/img/me.jpg" class="banner"/> -->
 
       <hr>
 
@@ -109,12 +119,18 @@
   <!-- Bootstrap Core JavaScript -->
   <script src="/assets/js/bootstrap.min.js"></script>
 
-  <!-- TypedJS -->
   <script>
-    var typed = new Typed('#typed', {
-      stringsElement: '#typed-strings',
-      typeSpeed: 60,
+    // TypedJS
+    var options = {
+      strings: ["software engineer"],
+      typeSpeed: 40,
       showCursor: false
+      }
+    var typed = new Typed("#software-engineer", options);
+
+    // Photography flash
+    $(document).ready(function(){
+      $("#photographer").hide(0).delay(1500).fadeIn(1000);
     });
   </script>
 </body>
