@@ -22,7 +22,9 @@ Love this song! Jammed out to Jai Wolf live during Lollapalooza, and I've been
 listening to him daily since! His songs have an upliftding and mellow vibe to 
 them. Jai Wolf also went to high school less than an hour away from me!
 
-#### **Food:** 
+#### **Food:** Bud Namu
+
+All-you-can-eat delicious Korean BBQ in Korea Town in LA for $15. Absolutely phenomenal!
 
 #### **Productivity tool:**  Toggl
 
@@ -34,3 +36,5 @@ timer says I'm doing. It's a wonderful service, and I encourage you to give it a
 for a bit. It took me a while to understand how I could customize it so it could 
 become the vital productivity tool it is to me today, so feel free to play around with 
 it and see how you can incorporate it into your work-flow!
+
+#### **Hike:** Big C and Sutro Baths to Golden Gate Bridge via Land's End
