@@ -6,14 +6,15 @@ permalink: /notes/academic-integrity
 layout: note
 ---
 
-In Fall '16, I took Modern Organic Chemistry, and I struggled immenseley with it. Not only was the 
+test
+In Fall '16, I took Modern Organic Chemistry, and I struggled immenseley with it. Not only was the
 material not interesting, I also picked up material much slower than my fellow Chemistry majors. I spent
-hours simply trying to understand my class notes, and I spent even more time working on homeworks and 
-studying for exams to get abyssmal scores. Throughout the final exam, there was a student who had been 
-looking at a cheat packet of reactions in her backpack. As she was not being super discreet about this 
-manner and she was sitting in the front row. I had two other friends in my class who saw her cheating as 
-well, so I had others to corroberate my claim that she was cheating. I was conflicted for the next few 
-days with what I should do. I discussed this problem with a few friends and even sent an email to a 
+hours simply trying to understand my class notes, and I spent even more time working on homeworks and
+studying for exams to get abyssmal scores. Throughout the final exam, there was a student who had been
+looking at a cheat packet of reactions in her backpack. As she was not being super discreet about this
+manner and she was sitting in the front row. I had two other friends in my class who saw her cheating as
+well, so I had others to corroberate my claim that she was cheating. I was conflicted for the next few
+days with what I should do. I discussed this problem with a few friends and even sent an email to a
 professor in charge of a class I took the prior semester. I'll be a TA in Fall '17, so I thought it
 would be good if I were to outline my thoughts on academic integrity before I take on the role.
 
@@ -26,7 +27,7 @@ Hi, Dr. Kosbie:
 
 This purpose of this email is for me to understand what would happen to a student if he/she gets reported of cheating on an exam.
 
-I took your class last semester (my definitive favorite class at CMU, btw!), so this cheating incident has nothing to do with any of the classes you are involved in. 
+I took your class last semester (my definitive favorite class at CMU, btw!), so this cheating incident has nothing to do with any of the classes you are involved in.
 
 This semester witnessed another student cheating on a final exam, and I've felt conflicted with what to do since. From taking 15-112, I'm aware of how serious academic integrity is to you, so I would like to know specifically what you would do if a student reported another specific student of cheating on a final exam.
 
