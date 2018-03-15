@@ -6,8 +6,6 @@ permalink: /notes/academic-integrity
 layout: note
 ---
 
-d
-
 In Fall '16, I took Modern Organic Chemistry, and I struggled immenseley with it. Not only was the
 material not interesting, I also picked up material much slower than my fellow Chemistry majors. I spent
 hours simply trying to understand my class notes, and I spent even more time working on homeworks and
