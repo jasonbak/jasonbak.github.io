@@ -24,7 +24,7 @@ Dan and I then had to manually digitize this data onto Microsoft Excel. Inputtin
 
 ![Periodontal database](/assets/img/projects/perio-database.jpg){:class="project-photo-center"}
 
-Even though this process was terribly boring, calculating significant p-values allowed Dan and I to finally saw the statistical fruits of our labor! Some part of those seemingly disconnected number we were inputting into Excel were actually connected in a beautiful way according to our analyses.
+Even though this process was terribly boring, calculating significant p-values allowed Dan and I to finally saw the statistical fruits of our labor! Some part of those seemingly disconnected number we were inputting into Excel was actually connected in a beautiful way according to our analyses.
 
 Going through the repetitive process of finding and inputting data made us appreciate the beauty in data and how we can find that beauty through statistics. Again, the methodology and results of this project were not something to behold, but the spark for interest in data analysis that was ignited was wonderful. Additionally, I got a life-long friend through this project--I suppose shared pain is an amazing foundation for a relationship. I was also able to help establish the dental internship program at my high school, which is enabling students to have the opportunity to the resources I had while conducting this investigation!
 
