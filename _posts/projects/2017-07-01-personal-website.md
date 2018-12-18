@@ -26,7 +26,7 @@ I used [fontawesome.io] [fontawesome.io] for the aesthetic icons you see through
 
 * <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Mid-fi mock-up v1](/assets/doc/bak_jason_website_v1.pdf)
 * <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [Mid-fi mock-up v2](/assets/doc/bak_jason_website_v2.pdf)
-* <i class="fa fa-github" aria-hidden="true"></i> [GitHub repository] [github]
+* <i class="fab fa-github" aria-hidden="true"></i> [GitHub repository] [github]
 
 [fotoroma]: http://fotorama.io/
 [yaml]: http://jekyllrb.com/docs/frontmatter/
