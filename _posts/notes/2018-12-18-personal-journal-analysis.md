@@ -8,11 +8,11 @@ layout: note
 
 I've been journaling since the start of my high school senior year (Sept 2014). The idea of capturing moments I've lived for my future self to relive excites me and the emotional freedom of writing down my thoughts is liberating. 
 
-This consistent mindset for the past four years resulted in an amazingly thorough and equally unique source of data I leveraged to help me to answer a fundamental question I consider daily: **how can I be happier?**
+This consistent mindset for the past four years resulted in an amazingly thorough and equally unique source of personal data I leveraged to help me to answer a fundamental question I consider daily: **how can I be happier?**
 
 To this end, I was particularly interested in identifying trends that promote happier writing, which may be correlated to a happier life! 
 
-At the crux of this analysis, I ran a sentiment analyzer at different granularities of journal entry groupings to obtain a sentiment score, which ranges from [-1.0, 1.0]. The higher the sentiment score, the happier the writing!*
+At the crux of this analysis, I ran a sentiment analyzer at different granularities of journal entry groupings to obtain a sentiment score, which ranges between [-1.0, 1.0]. The higher the sentiment score, the happier the writing!*
 
 If you're interested in learning about the methodology, I include a link to a Jupyter Notebook with code and in-depth analysis at the end of this post. 
 
@@ -64,7 +64,7 @@ This was very neat to see because the results go against my initial hunch that m
 
 It was a bit sad to initially see the low sentiment scores for the summer months as these are the months in which I can spend more time doing the things I love and hanging out with people I care about. Thus, these are the times in which sentiment should be the highest! However, I suppose I feel too worried about the progress of my work and am too consumed with keeping up with the life I want to live that I don't make time to slow down and reflect.
 
-Gladly, I performed this analysis in May, so I was able to make efforts to be more appreciative this last summer. Thankfully, when I ran this analysis again with the new summer month entries included in the data set, the sentiment for the summer months was a lot higher than before. :)
+Gladly, I performed this analysis in May 2018, so I was able to make efforts to be more appreciative this last summer. Thankfully, when I ran this analysis again with the new summer month entries included in the data set, the sentiment for the summer months was a lot higher than before. :)
 
 # 4. When did I have the most to write about?
 
@@ -91,4 +91,4 @@ Big thanks to [Wan Shen Lim] [wan] for helping structure my analyses and cleanin
 *I experimented with [TextBlob](http://textblob.readthedocs.io/en/dev/), NLTK's [VADER](http://www.nltk.org/howto/sentiment.html), and Stanford's [CoreNLP](https://stanfordnlp.github.io/CoreNLP/) sentiment analyzers. I tested all three on a random sample of my journal entries and found that VADER was the best at accurately reflecting my sentiment--albeit nowhere near perfect. Though, it did do a good enough job to use a basis for analysis.
 
 [notebook]: https://github.com/jasonbak/Personal-journal-analysis/blob/master/journal_analysis.ipynb
-[wan]: [https://wanshenl.me]
+[wan]: https://wanshenl.me
