@@ -1,7 +1,7 @@
 ---
 title: Projects
 project-title: Analysis of my personal journal
-abstract: I have been consistently journaling since the start of high school senior year (Sept 2014), producing around 283,000 words (or 350 pages) of unfiltered thoughts. This is a unique source of personal data which can be used to reveal trends in my life. We were particularly interested in identifying trends that promote happier writing, which may be correlated to a happier life!
+abstract: I have been consistently journaling since the start of high school senior year (Sept 2014), producing around 283,000 words (or 350 pages) of unfiltered thoughts. This is a unique source of personal data which can be used to reveal trends in my life. We were particularly interested in identifying trends that promote happier writing, which may be correlated with a happier life!
 recognitions: none
 recognitions-2: none
 recognitions-3: none
@@ -18,7 +18,7 @@ layout: project
 
 I've been consistently journaling since the start of my high school senior year (Sept 2014), producing around 283,000 words (or 350 pages) of unfiltered thoughts.
 
-This is a unique source of personal data which we can use to reveal trends in my life. Wan and I were particularly interested in identifying trends that promote happier writing, which may be correlated to a happier life!
+This is a unique source of personal data which we can use to reveal trends in my life. Wan and I were particularly interested in identifying trends that promote happier writing, which may be correlated with a happier life!
 
 There is a non-trivial amount of processing to be done on the journals as I have journals for different years in different file types and formats. I have a single .docx file for 2014, 2015, and 2016; a single .tex file for 2017; and my 2018 entries have all been in Dropbox Paper. Each of these different file formats have a different scheme of formatting journal entries. Wan and I needed to consider a data structure to make analysis possible across varying time frames, i.e., weeks, months, years. At the same time, our data format needs to be compatible with various natural language processing libraries.
 

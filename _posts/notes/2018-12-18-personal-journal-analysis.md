@@ -1,7 +1,7 @@
 ---
 title: "&amp;TextEdit"
 note-title: ANALYSIS OF MY PERSONAL JOURNAL OF FOUR YEARS
-abstract: I've been consistently journaling since the start of my high school senior year (Sept 2014), producing around 337,000 words (or 320 pages of single-spaced 12 font) of unfiltered thoughts. This is a unique source of personal data that I used to reveal trends in my life that promote happier writing, which may be correlated to a happier life!
+abstract: I've been consistently journaling since the start of my high school senior year (Sept 2014), producing around 337,000 words (or 320 pages of single-spaced 12 font) of unfiltered thoughts. This is a unique source of personal data that I used to reveal trends in my life that promote happier writing, which may be correlated with a happier life!
 permalink: /notes/personal-journal-analysis
 layout: note
 ---
@@ -10,7 +10,7 @@ I've been journaling since the start of my high school senior year (Sept 2014). 
 
 This consistent mindset for the past four years resulted in an amazingly thorough and equally unique source of personal data I leveraged to help me to answer a fundamental question I consider daily: **how can I be happier?**
 
-To this end, I was particularly interested in identifying trends that promote happier writing, which may be correlated to a happier life! 
+To this end, I was particularly interested in identifying trends that promote happier writing, which may be correlated with a happier life! 
 
 At the crux of this analysis, I ran a sentiment analyzer at different granularities of journal entry groupings to obtain a sentiment score, which ranges between [-1.0, 1.0]. The higher the sentiment score, the happier the writing!*
 

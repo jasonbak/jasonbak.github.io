@@ -1,238 +1,224 @@
 {
-  "portraits": [
+  "photos": [
     {
-      "width": 3127,
-      "path": "./photos/portraits/DSCF1401-min.jpg",
-      "height": 4690
+      "width": 1365,
+      "path": "./photos/photos/DSCF6898.jpg",
+      "height": 2048
     },
     {
-      "width": 5760,
-      "path": "./photos/portraits/BW4A1264-min.jpg",
-      "height": 3840
+      "width": 2048,
+      "path": "./photos/photos/DSCF6696.jpg",
+      "height": 1365
     },
     {
-      "width": 3264,
-      "path": "./photos/portraits/DSCF1227-min.jpg",
-      "height": 4896
+      "width": 2048,
+      "path": "./photos/photos/DSCF4283.jpg",
+      "height": 1365
     },
     {
-      "width": 4896,
-      "path": "./photos/portraits/DSCF1208-min.jpg",
-      "height": 3264
+      "width": 2048,
+      "path": "./photos/photos/DSCF4485.jpg",
+      "height": 1365
     },
     {
-      "width": 4016,
-      "path": "./photos/portraits/DSC_5261-min.jpg",
-      "height": 6016
+      "width": 2048,
+      "path": "./photos/photos/DSCF2395.jpg",
+      "height": 1365
     },
     {
-      "width": 5983,
-      "path": "./photos/portraits/DSC_3168-min.jpg",
-      "height": 3994
+      "width": 2048,
+      "path": "./photos/photos/DSCF7206.jpg",
+      "height": 1365
     },
     {
-      "width": 3091,
-      "path": "./photos/portraits/DSCF1107-min.jpg",
-      "height": 4636
+      "width": 2048,
+      "path": "./photos/photos/DSCF6874.jpg",
+      "height": 1365
     },
     {
-      "width": 4896,
-      "path": "./photos/portraits/DSCF1544-min.jpg",
-      "height": 3264
+      "width": 2048,
+      "path": "./photos/photos/DSCF4520.jpg",
+      "height": 1365
     },
     {
-      "width": 4741,
-      "path": "./photos/portraits/DSCF1355-min.jpg",
-      "height": 3161
+      "width": 2048,
+      "path": "./photos/photos/DSCF6900.jpg",
+      "height": 1365
     },
     {
-      "width": 4813,
-      "path": "./photos/portraits/DSCF1270-min.jpg",
-      "height": 3209
+      "width": 2048,
+      "path": "./photos/photos/DSCF2557.jpg",
+      "height": 1365
     },
     {
-      "width": 4896,
-      "path": "./photos/portraits/DSCF1291-min.jpg",
-      "height": 3264
+      "width": 2048,
+      "path": "./photos/photos/DSCF7836.jpg",
+      "height": 1365
     },
     {
-      "width": 4000,
-      "path": "./photos/portraits/DSC_3535-min.jpg",
-      "height": 6000
+      "width": 2048,
+      "path": "./photos/photos/DSCF7598.jpg",
+      "height": 1365
     },
     {
-      "width": 4000,
-      "path": "./photos/portraits/DSC_3486-min.jpg",
-      "height": 6000
+      "width": 2048,
+      "path": "./photos/photos/DSCF3884.jpg",
+      "height": 1365
     },
     {
-      "width": 5821,
-      "path": "./photos/portraits/DSC_5320-min.jpg",
-      "height": 3886
+      "width": 1367,
+      "path": "./photos/photos/DSC_5261.jpg",
+      "height": 2048
     },
     {
-      "width": 5861,
-      "path": "./photos/portraits/DSC_3133-min.jpg",
-      "height": 3900
+      "width": 2048,
+      "path": "./photos/photos/DSCF6384.jpg",
+      "height": 1365
     },
     {
-      "width": 4852,
-      "path": "./photos/portraits/DSCF1493-min.jpg",
-      "height": 3235
+      "width": 1365,
+      "path": "./photos/photos/DSCF1401.jpg",
+      "height": 2048
     },
     {
-      "width": 3817,
-      "path": "./photos/portraits/DSC_1201-min.jpg",
-      "height": 6000
+      "width": 2048,
+      "path": "./photos/photos/BW4A1264.jpg",
+      "height": 1365
     },
     {
-      "width": 3264,
-      "path": "./photos/portraits/DSCF1172-min.jpg",
-      "height": 4896
-    }
-  ],
-  "travel": [
-    {
-      "width": 5897,
-      "path": "./photos/travel/DSC_0554-min.jpg",
-      "height": 3931
+      "width": 2048,
+      "path": "./photos/photos/DSCF6350.jpg",
+      "height": 1365
     },
     {
-      "width": 6000,
-      "path": "./photos/travel/DSC_1299-min.jpg",
-      "height": 4000
+      "width": 2048,
+      "path": "./photos/photos/DSCF6634.jpg",
+      "height": 1365
     },
     {
-      "width": 6000,
-      "path": "./photos/travel/DSC_0154-min.jpg",
-      "height": 4000
+      "width": 2048,
+      "path": "./photos/photos/DSCF4796.jpg",
+      "height": 1365
     },
     {
-      "width": 5961,
-      "path": "./photos/travel/DSC_4818-min.jpg",
-      "height": 3974
+      "width": 1365,
+      "path": "./photos/photos/DSCF4621.jpg",
+      "height": 2048
     },
     {
-      "width": 6000,
-      "path": "./photos/travel/DSC_3208-min.jpg",
-      "height": 4000
+      "width": 1365,
+      "path": "./photos/photos/DSCF1148.jpg",
+      "height": 2048
     },
     {
-      "width": 6000,
-      "path": "./photos/travel/DSC_1181-min.jpg",
-      "height": 4000
+      "width": 2048,
+      "path": "./photos/photos/DSCF0929.jpg",
+      "height": 1365
     },
     {
-      "width": 5719,
-      "path": "./photos/travel/DSC_0145-min.jpg",
-      "height": 3813
+      "width": 1365,
+      "path": "./photos/photos/DSCF7050.jpg",
+      "height": 2048
     },
     {
-      "width": 5929,
-      "path": "./photos/travel/DSC_4630-min.jpg",
-      "height": 3952
+      "width": 1365,
+      "path": "./photos/photos/DSCF2699.jpg",
+      "height": 2048
     },
     {
-      "width": 5593,
-      "path": "./photos/travel/DSC_0289-min.jpg",
-      "height": 3729
-    }
-  ],
-  "lifestyle": [
-    {
-      "width": 6000,
-      "path": "./photos/lifestyle/DSC_7792-min.jpg",
-      "height": 4000
+      "width": 1365,
+      "path": "./photos/photos/DSC_2301.jpg",
+      "height": 2048
     },
     {
-      "width": 6000,
-      "path": "./photos/lifestyle/DSC_6877-min.jpg",
-      "height": 4000
+      "width": 2048,
+      "path": "./photos/photos/DSCF7521.jpg",
+      "height": 1365
     },
     {
-      "width": 6000,
-      "path": "./photos/lifestyle/DSC_7201-min.jpg",
-      "height": 3754
+      "width": 1365,
+      "path": "./photos/photos/DSCF3989.jpg",
+      "height": 2048
     },
     {
-      "width": 6000,
-      "path": "./photos/lifestyle/DSC_0300-min.jpg",
-      "height": 4000
+      "width": 1365,
+      "path": "./photos/photos/DSC_8570.jpg",
+      "height": 2048
     },
     {
-      "width": 5513,
-      "path": "./photos/lifestyle/DSC_1829-min.jpg",
-      "height": 3675
+      "width": 2048,
+      "path": "./photos/photos/DSCF6566.jpg",
+      "height": 1365
     },
     {
-      "width": 5785,
-      "path": "./photos/lifestyle/DSC_7879-min.jpg",
-      "height": 3857
+      "width": 2048,
+      "path": "./photos/photos/DSCF7877.jpg",
+      "height": 1365
     },
     {
-      "width": 5893,
-      "path": "./photos/lifestyle/DSC_1063-min.jpg",
-      "height": 2849
+      "width": 2048,
+      "path": "./photos/photos/DSCF1355.jpg",
+      "height": 1365
     },
     {
-      "width": 5915,
-      "path": "./photos/lifestyle/DSC_9392-min.jpg",
-      "height": 4000
+      "width": 1365,
+      "path": "./photos/photos/DSCF7095.jpg",
+      "height": 2048
     },
     {
-      "width": 6000,
-      "path": "./photos/lifestyle/DSC_0324-min.jpg",
-      "height": 4000
+      "width": 1365,
+      "path": "./photos/photos/DSCF7532.jpg",
+      "height": 2048
     },
     {
-      "width": 5893,
-      "path": "./photos/lifestyle/DSC_8534-min.jpg",
-      "height": 3981
+      "width": 2048,
+      "path": "./photos/photos/DSCF6375.jpg",
+      "height": 1365
     },
     {
-      "width": 5907,
-      "path": "./photos/lifestyle/DSC_0410-min.jpg",
-      "height": 3938
+      "width": 1365,
+      "path": "./photos/photos/DSCF7686.jpg",
+      "height": 2048
     },
     {
-      "width": 2036,
-      "path": "./photos/lifestyle/IMG_9180-min.jpg",
+      "width": 2048,
+      "path": "./photos/photos/DSCF4827.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/photos/DSCF3186.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/photos/DSC_0206.jpg",
       "height": 1357
     },
     {
-      "width": 5943,
-      "path": "./photos/lifestyle/DSC_3133-min.jpg",
-      "height": 3845
+      "width": 1365,
+      "path": "./photos/photos/DSCF2823.jpg",
+      "height": 2048
     },
     {
-      "width": 5922,
-      "path": "./photos/lifestyle/DSC_3176-min.jpg",
-      "height": 3948
+      "width": 2048,
+      "path": "./photos/photos/DSCF7026.jpg",
+      "height": 1365
     },
     {
-      "width": 6000,
-      "path": "./photos/lifestyle/DSC_0593-min.jpg",
-      "height": 4000
+      "width": 1365,
+      "path": "./photos/photos/DSCF7436.jpg",
+      "height": 2048
     },
     {
-      "width": 5892,
-      "path": "./photos/lifestyle/DSC_3083-min.jpg",
-      "height": 3928
+      "width": 1365,
+      "path": "./photos/photos/DSCF4306.jpg",
+      "height": 2048
     },
     {
-      "width": 4896,
-      "path": "./photos/lifestyle/DSCF0960-min.jpg",
-      "height": 3264
-    },
-    {
-      "width": 5792,
-      "path": "./photos/lifestyle/DSC_0206-min.jpg",
-      "height": 3837
-    },
-    {
-      "width": 5466,
-      "path": "./photos/lifestyle/DSC_8392-min.jpg",
-      "height": 3644
+      "width": 1365,
+      "path": "./photos/photos/DSC_3535.jpg",
+      "height": 2048
     }
   ]
 }
