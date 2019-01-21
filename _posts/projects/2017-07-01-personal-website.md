@@ -1,7 +1,7 @@
 ---
 title: Projects
 project-title: Personal software and photography portfolio
-abstract: This website serves mainly as a professional software and photography portfolio for potential employers/clients. I include a blog using Jekyll in hopes it will provide some positive change in their lives. I outline most of the technologies and libraries used to build this website for guidance to others who would like to learn about them for their own purposes.
+abstract: This website serves mainly as a professional software and photography portfolio for potential employers/clients. I include a blog using Jekyll in hopes it will provide some positive change in someone's life. I outline most of the technologies and libraries used to build this website for guidance to others who would like to learn about them for their own purposes.
 recognitions: none
 recognitions-2: none
 recognitions-3: none
@@ -20,7 +20,7 @@ I have been wanting to build and design my own website from scratch for some tim
 
 With [Jekyll] [jekyll], I developed seven page layouts: homepage, default, media-slideshow, note, notes-list, project, and projects-list. I set up the configuration files so that given a page with a certain set of variables, all data would be translated in HTML using the Liquid templating language. By passing in the right [YAML Front Matter] [yaml] variables into each of the pages and configuration file, Jekyll did most of the work for page creation and navigation. Given most variable content can be added and deleted using non-HTML files, the base HTML/CSS code will never have to be touched other than for the purpose of a redesign, which is useful for my [blog](/notes.html) and [project](/projects.html) posts.
 
-I used a jQuery plug-in called [fotoroma] [fotoroma] for my [photography](/photography.html) and [DOGE](/doge.html) pages. I'm currently thinking of ways to drastically improve the photography page.
+I used a jQuery plug-in called [fotoroma] [fotoroma] for my [DOGE](/doge.html) page. Originally, I used fotorama for my photography page as well. I now use an easy-to-use [visual portfolio generator] [photogenerator] created by the talented [Andy Zhang] [andy]. I would highly recommend this if you need a way to showcase your photos!
 
 I used [fontawesome.io] [fontawesome.io] for the aesthetic icons you see throughout the website.
 
@@ -29,6 +29,8 @@ I used [fontawesome.io] [fontawesome.io] for the aesthetic icons you see through
 * <i class="fab fa-github" aria-hidden="true"></i> [GitHub repository] [github]
 
 [fotoroma]: http://fotorama.io/
+[photogenerator]: https://github.com/andyzg/gallery
+[andy]: https://andyzhang.net/
 [yaml]: http://jekyllrb.com/docs/frontmatter/
 [jekyll]: https://jekyllrb.com
 [fontawesome.io]: fontawesome.io

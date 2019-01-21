@@ -1,7 +1,7 @@
 ---
 title: Projects
 project-title: Analysis of my personal journal
-abstract: I have been consistently journaling since the start of high school senior year (Sept 2014), producing around 283,000 words (or 350 pages) of unfiltered thoughts. This is a unique source of personal data which can be used to reveal trends in my life. We were particularly interested in identifying trends that promote happier writing, which may be correlated with a happier life!
+abstract: I've been consistently journaling since the start of my high school senior year (Sept 2014), producing around 337,000 words (or 320 pages of single-spaced 12 font) of unfiltered thoughts. This is a unique source of personal data that I used to reveal trends in my life that promote happier writing, which may be correlated with a happier life!
 recognitions: none
 recognitions-2: none
 recognitions-3: none
@@ -16,7 +16,7 @@ permalink: /projects/journal-analysis
 layout: project
 ---
 
-I've been consistently journaling since the start of my high school senior year (Sept 2014), producing around 283,000 words (or 350 pages) of unfiltered thoughts.
+I've been consistently journaling since the start of my high school senior year (Sept 2014), producing around 337,000 words (or 320 pages of single-spaced 12 font) of unfiltered thoughts. 
 
 This is a unique source of personal data which we can use to reveal trends in my life. Wan and I were particularly interested in identifying trends that promote happier writing, which may be correlated with a happier life!
 
@@ -28,6 +28,7 @@ We also used RNNs and LSTMs via textgenrnn to generate Jason-like entries.
 
 Lately, I’ve been incorporating meta-data about my days into each daily entry. Currently, this isn’t much data to warrant analysis, but in the future I’d like to perform similar analysis on this meta-data.
 
+* <i class="fas fa-pencil-alt" aria-hidden="true"></i> [Key lessons](/notes/personal-journal-analysis)
 * <i class="fa fa-book" aria-hidden="true"></i> [Jupyter notebook] [Jupyter]
 * <i class="fab fa-youtube"></i> [Video] [YouTube]
 * <i class="fab fa-github" aria-hidden="true"></i> [GitHub repository] [GitHub]
