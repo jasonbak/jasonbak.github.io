@@ -17,7 +17,7 @@ But we still haven’t answered a core question. Why is it that I don’t feel t
 
 Let’s focus on that last question because I believe answering this will answer the former two questions. 
 
-I suppose it’s a mix of a lot of things. I’m inclined to bottle up my raw negative emotions. On the other hand, I do not think I have a problem displaying positive emotions, like joy—not happiness, on a regular basis. Being a generally happy person is something I take great pride in given how previous iterations of Jason were like. Do I bottle up raw negative emotions up because I want to pursue this joyful Jason? I think that’s part of the reason. 
+I suppose it’s a mix of a lot of things. I’m inclined to bottle up my raw negative emotions. On the other hand, I do not think I have a problem displaying positive emotions, like joy—not happiness, on a regular basis. Being a generally joyful person is something I take great pride in given how previous iterations of Jason were like. Do I bottle up raw negative emotions up because I want to pursue this joyful Jason? I think that’s part of the reason. 
 
 I believe another reason is that I don’t have masculine figures around me that show raw negative\*\*\* emotions in a manner that I would consider superbly healthy for myself. They usually just don’t show it at all. It’s hard for me to do something if I don’t have people in my life that are doing something similar.\*\*\*\*
 
@@ -29,9 +29,9 @@ When I saw her, she gave the first slice of a beautiful and delicious crepe cake
 
 I do have the right to feel however I want to feel. I owe that to myself and to my development as a human. However, it’s rather difficult for me to find people that I can feel comfortable sharing how I feel with and sharing how I feel is the way I want to emanate my emotions out of my mind. As a result, I’ll keep my eye out to foster those types of relationships and seek to understand others when I’m on the other side of those conversations.
 
-![yummy crepy cake](/assets/img/notes/yummy-crepe-cake.PNG){:class="note-photo"}
+![yummy crepy cake](/assets/img/notes/yummy-crepe-cake.png){:class="note-photo"}
 
-![derp me](/assets/img/notes/derp-me.PNG){:class="note-photo"}
+![derp me](/assets/img/notes/derp-me.png){:class="note-photo"}
 
 ---
 
