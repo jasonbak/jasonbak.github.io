@@ -1,234 +1,382 @@
 {
-  "photos": [
+  "events": [
     {
-      "width": 1365,
-      "path": "./photos/photos/DSCF6898.jpg",
+      "width": 2048,
+      "path": "./photos/events/DSCF9176.jpg",
+      "height": 1366
+    },
+    {
+      "width": 1366,
+      "path": "./photos/events/DSCF0838.jpg",
       "height": 2048
     },
     {
       "width": 2048,
-      "path": "./photos/photos/DSCF6696.jpg",
-      "height": 1365
+      "path": "./photos/events/DSCF8974.jpg",
+      "height": 1366
     },
     {
       "width": 2048,
-      "path": "./photos/photos/DSCF4283.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/photos/DSCF4485.jpg",
-      "height": 1365
+      "path": "./photos/events/DSCF1201.jpg",
+      "height": 1366
     },
     {
       "width": 1365,
-      "path": "./photos/photos/DSCF8042.jpg",
+      "path": "./photos/events/DSCF0524.jpg",
+      "height": 2048
+    },
+    {
+      "width": 1365,
+      "path": "./photos/events/DSCF0478.jpg",
       "height": 2048
     },
     {
       "width": 2048,
-      "path": "./photos/photos/DSCF2395.jpg",
-      "height": 1365
+      "path": "./photos/events/DSCF1580.jpg",
+      "height": 1366
+    },
+    {
+      "width": 1366,
+      "path": "./photos/events/DSCF4205.jpg",
+      "height": 2048
     },
     {
       "width": 2048,
-      "path": "./photos/photos/DSCF7206.jpg",
-      "height": 1365
+      "path": "./photos/events/DSCF1237.jpg",
+      "height": 1366
     },
     {
       "width": 2048,
-      "path": "./photos/photos/DSCF7979.jpg",
-      "height": 1365
+      "path": "./photos/events/SHK_7371.jpg",
+      "height": 1367
     },
     {
       "width": 2048,
-      "path": "./photos/photos/DSCF6874.jpg",
-      "height": 1365
+      "path": "./photos/events/DSCF8676.jpg",
+      "height": 1366
     },
     {
       "width": 2048,
-      "path": "./photos/photos/DSCF4520.jpg",
-      "height": 1365
+      "path": "./photos/events/DSCF1492.jpg",
+      "height": 1366
+    }
+  ],
+  "those i care deeply about": [
+    {
+      "width": 1366,
+      "path": "./photos/those i care deeply about/DSCF6898.jpg",
+      "height": 2048
     },
     {
       "width": 2048,
-      "path": "./photos/photos/DSCF6900.jpg",
-      "height": 1365
+      "path": "./photos/those i care deeply about/DSCF7979.jpg",
+      "height": 1366
+    },
+    {
+      "width": 1366,
+      "path": "./photos/those i care deeply about/DSCF2940-2.jpg",
+      "height": 2048
     },
     {
       "width": 2048,
-      "path": "./photos/photos/DSCF2557.jpg",
-      "height": 1365
+      "path": "./photos/those i care deeply about/DSCF6851.jpg",
+      "height": 1366
     },
     {
       "width": 2048,
-      "path": "./photos/photos/DSCF7836.jpg",
-      "height": 1365
+      "path": "./photos/those i care deeply about/DSCF8855.jpg",
+      "height": 1366
     },
     {
       "width": 2048,
-      "path": "./photos/photos/DSCF7598.jpg",
-      "height": 1365
+      "path": "./photos/those i care deeply about/25626062_1984155814933568_356216081433878785_o.jpg .jpg",
+      "height": 1367
+    },
+    {
+      "width": 1366,
+      "path": "./photos/those i care deeply about/DSCF9386.jpg",
+      "height": 2048
+    }
+  ],
+  "grad": [
+    {
+      "width": 1366,
+      "path": "./photos/grad/DSCF9764.jpg",
+      "height": 2048
+    },
+    {
+      "width": 1366,
+      "path": "./photos/grad/DSCF9262.jpg",
+      "height": 2048
+    },
+    {
+      "width": 1366,
+      "path": "./photos/grad/DSCF9446.jpg",
+      "height": 2048
     },
     {
       "width": 2048,
-      "path": "./photos/photos/DSCF3884.jpg",
+      "path": "./photos/grad/DSCF9644.jpg",
+      "height": 1366
+    },
+    {
+      "width": 1365,
+      "path": "./photos/grad/56980630_2707843085898167_7293124780964708352_o.jpg",
+      "height": 2048
+    },
+    {
+      "width": 2048,
+      "path": "./photos/grad/DSCF9056.jpg",
+      "height": 1366
+    },
+    {
+      "width": 1366,
+      "path": "./photos/grad/DSCF9279.jpg",
+      "height": 2048
+    },
+    {
+      "width": 1365,
+      "path": "./photos/grad/56931956_2707843722564770_8236861556982284288_o.jpg",
+      "height": 2048
+    },
+    {
+      "width": 2048,
+      "path": "./photos/grad/57133845_2707843075898168_6267486032334159872_o.jpg",
       "height": 1365
+    },
+    {
+      "width": 1365,
+      "path": "./photos/grad/57101679_2707843069231502_7811033803194892288_o.jpg",
+      "height": 2048
+    }
+  ],
+  "adventure": [
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF0796.jpg",
+      "height": 1366
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF6325.jpg",
+      "height": 1366
+    },
+    {
+      "width": 1366,
+      "path": "./photos/adventure/DSCF3488.jpg",
+      "height": 2048
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF2386.jpg",
+      "height": 1366
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF2308.jpg",
+      "height": 1366
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF4812.jpg",
+      "height": 1366
+    },
+    {
+      "width": 1366,
+      "path": "./photos/adventure/DSCF2736.jpg",
+      "height": 2048
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF1405.jpg",
+      "height": 1366
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF3154.jpg",
+      "height": 1366
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF5494.jpg",
+      "height": 1366
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF5442.jpg",
+      "height": 1366
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF1220.jpg",
+      "height": 1366
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF2688.jpg",
+      "height": 1366
+    },
+    {
+      "width": 1366,
+      "path": "./photos/adventure/DSCF1626.jpg",
+      "height": 2048
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF6821.jpg",
+      "height": 1366
+    },
+    {
+      "width": 1366,
+      "path": "./photos/adventure/DSCF7524.jpg",
+      "height": 2048
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF5551.jpg",
+      "height": 1366
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF1904.jpg",
+      "height": 1366
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF6500.jpg",
+      "height": 1366
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF3337.jpg",
+      "height": 1366
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF3093.jpg",
+      "height": 1366
+    },
+    {
+      "width": 2048,
+      "path": "./photos/adventure/DSCF7195.jpg",
+      "height": 1366
+    }
+  ],
+  "people": [
+    {
+      "width": 2048,
+      "path": "./photos/people/DSCF3465.jpg",
+      "height": 1366
+    },
+    {
+      "width": 1366,
+      "path": "./photos/people/DSCF2419.jpg",
+      "height": 2048
+    },
+    {
+      "width": 2048,
+      "path": "./photos/people/DSCF8509.jpg",
+      "height": 1366
+    },
+    {
+      "width": 1366,
+      "path": "./photos/people/DSCF2795.jpg",
+      "height": 2048
+    },
+    {
+      "width": 2048,
+      "path": "./photos/people/DSCF0009.jpg",
+      "height": 1366
+    },
+    {
+      "width": 1366,
+      "path": "./photos/people/DSCF2387.jpg",
+      "height": 2048
+    },
+    {
+      "width": 1366,
+      "path": "./photos/people/DSCF2436.jpg",
+      "height": 2048
     },
     {
       "width": 1367,
-      "path": "./photos/photos/DSC_5261.jpg",
+      "path": "./photos/people/DSC_5261.jpg",
+      "height": 2048
+    },
+    {
+      "width": 1366,
+      "path": "./photos/people/DSCF3174.jpg",
       "height": 2048
     },
     {
       "width": 2048,
-      "path": "./photos/photos/DSCF6384.jpg",
+      "path": "./photos/people/BW4A1264.jpg",
       "height": 1365
     },
     {
+      "width": 1366,
+      "path": "./photos/people/DSCF7884.jpg",
+      "height": 2048
+    },
+    {
+      "width": 1366,
+      "path": "./photos/people/DSCF2327.jpg",
+      "height": 2048
+    },
+    {
       "width": 1365,
-      "path": "./photos/photos/DSCF1401.jpg",
+      "path": "./photos/people/DSCF1148.jpg",
+      "height": 2048
+    },
+    {
+      "width": 1365,
+      "path": "./photos/people/DSC_2301.jpg",
+      "height": 2048
+    },
+    {
+      "width": 1365,
+      "path": "./photos/people/DSCF3989.jpg",
+      "height": 2048
+    },
+    {
+      "width": 1365,
+      "path": "./photos/people/DSC_8570.jpg",
+      "height": 2048
+    },
+    {
+      "width": 1366,
+      "path": "./photos/people/DSCF8985.jpg",
+      "height": 2048
+    },
+    {
+      "width": 1366,
+      "path": "./photos/people/DSCF7095.jpg",
+      "height": 2048
+    },
+    {
+      "width": 1366,
+      "path": "./photos/people/DSCF9656.jpg",
+      "height": 2048
+    },
+    {
+      "width": 1366,
+      "path": "./photos/people/DSCF2662.jpg",
+      "height": 2048
+    },
+    {
+      "width": 1366,
+      "path": "./photos/people/DSCF9949.jpg",
+      "height": 2048
+    },
+    {
+      "width": 1365,
+      "path": "./photos/people/DSC_3535.jpg",
       "height": 2048
     },
     {
       "width": 2048,
-      "path": "./photos/photos/BW4A1264.jpg",
-      "height": 1365
-    },
-    {
-      "width": 1365,
-      "path": "./photos/photos/DSCF7884.jpg",
-      "height": 2048
-    },
-    {
-      "width": 2048,
-      "path": "./photos/photos/DSCF6350.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/photos/DSCF6634.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/photos/DSCF4796.jpg",
-      "height": 1365
-    },
-    {
-      "width": 1365,
-      "path": "./photos/photos/DSCF1148.jpg",
-      "height": 2048
-    },
-    {
-      "width": 2048,
-      "path": "./photos/photos/DSCF0929.jpg",
-      "height": 1365
-    },
-    {
-      "width": 1365,
-      "path": "./photos/photos/DSCF7050.jpg",
-      "height": 2048
-    },
-    {
-      "width": 1365,
-      "path": "./photos/photos/DSCF2699.jpg",
-      "height": 2048
-    },
-    {
-      "width": 1365,
-      "path": "./photos/photos/DSC_2301.jpg",
-      "height": 2048
-    },
-    {
-      "width": 2048,
-      "path": "./photos/photos/DSCF7521.jpg",
-      "height": 1365
-    },
-    {
-      "width": 1365,
-      "path": "./photos/photos/DSCF3989.jpg",
-      "height": 2048
-    },
-    {
-      "width": 1365,
-      "path": "./photos/photos/DSC_8570.jpg",
-      "height": 2048
-    },
-    {
-      "width": 2048,
-      "path": "./photos/photos/DSCF6566.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/photos/DSCF7877.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/photos/DSCF1355.jpg",
-      "height": 1365
-    },
-    {
-      "width": 1365,
-      "path": "./photos/photos/DSCF7095.jpg",
-      "height": 2048
-    },
-    {
-      "width": 1365,
-      "path": "./photos/photos/DSCF7532.jpg",
-      "height": 2048
-    },
-    {
-      "width": 2048,
-      "path": "./photos/photos/DSCF6375.jpg",
-      "height": 1365
-    },
-    {
-      "width": 1365,
-      "path": "./photos/photos/DSCF7686.jpg",
-      "height": 2048
-    },
-    {
-      "width": 2048,
-      "path": "./photos/photos/DSCF4827.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/photos/DSCF3186.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/photos/DSC_0206.jpg",
-      "height": 1357
-    },
-    {
-      "width": 1365,
-      "path": "./photos/photos/DSCF2823.jpg",
-      "height": 2048
-    },
-    {
-      "width": 2048,
-      "path": "./photos/photos/DSCF7026.jpg",
-      "height": 1365
-    },
-    {
-      "width": 1365,
-      "path": "./photos/photos/DSCF7436.jpg",
-      "height": 2048
-    },
-    {
-      "width": 1365,
-      "path": "./photos/photos/DSCF4306.jpg",
-      "height": 2048
-    },
-    {
-      "width": 1365,
-      "path": "./photos/photos/DSC_3535.jpg",
-      "height": 2048
+      "path": "./photos/people/DSCF2826.jpg",
+      "height": 1366
     }
   ]
 }
