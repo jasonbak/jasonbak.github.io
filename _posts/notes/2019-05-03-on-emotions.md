@@ -1,7 +1,7 @@
 ---
 title: "&amp;TextEdit"
 note-title: GIVING MYSELF THE RIGHT TO CRY
-abstract: A slightly altered version of one of my personal journal entries. I had no intention to share it when I wrote it, but now I do! I've dealt with a stigma that real men shouldn't show certain emotions and that's been unhealthy for me. Hopefully, this helps remove that stigma for some younger folk.
+abstract: A slightly altered version of one of my personal journal entries. I had no intention to share it when I wrote it, but now I do! I've dealt with a stigma that real men shouldn't show certain emotions and that's been unhealthy for me. Hopefully, this helps remove that stigma for some younger folks.
 permalink: /notes/on-emotions
 layout: note
 ---
