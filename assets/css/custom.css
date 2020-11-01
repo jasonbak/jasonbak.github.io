@@ -3,7 +3,12 @@
 body {
   font-family: 'Karla', sans-serif;
 }
-a{
+
+p {
+  /* font-size: 1.2em; */
+}
+
+a {
   color: #6b93f2;
   text-decoration: none;
 }
@@ -14,8 +19,8 @@ a:hover {
 }
 
 ul {
-  list-style-type: none;
-  margin-left: 19px;
+  list-style-type: none; /* No bullet points */
+  /* margin-left: 19px; */
   padding: 0;
 }
 
@@ -274,4 +279,21 @@ table.logtable td.col2 { width: 460px; align='left'}
   width: 100%;
   height: auto;
   padding-bottom: 5%;
+}
+
+#about-external-links li {
+  display: inline;
+  padding: 0.2em;
+}
+
+.content {
+  font-size: 1.8em;
+}
+
+.row {
+  padding-bottom: 5%;
+}
+
+.about {
+  font-size: 1.4em;
 }
