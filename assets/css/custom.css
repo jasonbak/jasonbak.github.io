@@ -269,3 +269,9 @@ table.logtable td.col2 { width: 460px; align='left'}
   height: auto;
   padding-bottom: 10%;
 }
+
+.photo {
+  width: 100%;
+  height: auto;
+  padding-bottom: 5%;
+}
