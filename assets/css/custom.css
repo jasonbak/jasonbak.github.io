@@ -242,3 +242,16 @@ table.logtable td.col2 { width: 460px; align='left'}
 .nav-link {
   padding-left: 0 !important;
 }
+
+.top-menu-bar {
+  font-size: 1.2em;
+  text-align: right;
+  display: block; /* Make the links appear below each other */
+  padding-top: 1em;
+  padding-right: 1em;
+}
+
+.cover {
+  width: 100%;
+  padding-bottom: 5%;
+}
