@@ -224,26 +224,6 @@ table.logtable td.col2 { width: 460px; align='left'}
   padding: 0;
 }
 
-/* Static footer */
-.footer {
-  width: 100%;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  background-color: rgb(235, 235, 235);
-  font-size: 1em;
-  text-align: center;
-  position: fixed;
-  bottom: 0;
-}
-.footer ul {
-  margin-bottom: 0;
-  padding:0;
-}
-.footer li {
-  display: inline-block;
-  list-style: none;
-}
-
 .nav-link {
   padding-left: 0 !important;
 }
@@ -258,13 +238,11 @@ table.logtable td.col2 { width: 460px; align='left'}
 
 .photo-cover {
   width: 100%;
-  padding-bottom: 5%;
 }
 
 .header {
-  /* font-size: 1.25em; */
   /* font-family: 'Source Serif Pro', serif; */
-  font-size: 1.4em;
+  font-size: 2em;
   padding-bottom: 5%;
   font-weight: 500;
 }
@@ -288,6 +266,8 @@ table.logtable td.col2 { width: 460px; align='left'}
 
 .content {
   font-size: 1.8em;
+  padding-left: 1.2em;
+  padding-right: 1.2em;
 }
 
 .row {
@@ -296,4 +276,26 @@ table.logtable td.col2 { width: 460px; align='left'}
 
 .about {
   font-size: 1.4em;
+}
+
+.footer {
+  width: 100%;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: rgb(245, 245, 245);
+  /* background-color: rgb(25, 25, 25); */
+  font-size: 1.2em;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+}
+.footer ul {
+  margin-bottom: 0;
+  padding: 0;
+}
+.footer li {
+  display: inline-block;
+  list-style: none;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
