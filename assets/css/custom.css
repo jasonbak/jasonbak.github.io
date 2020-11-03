@@ -1,7 +1,9 @@
 /*Overall frame for site*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;500;600;700&display=swap');
 
 body {
-  font-family: 'Karla', sans-serif;
+  font-family: 'Assistant', sans-serif;
+  /* font-family: 'Karla', sans-serif; */
 }
 
 p {
@@ -262,6 +264,13 @@ table.logtable td.col2 { width: 460px; align='left'}
 #about-external-links li {
   display: inline;
   padding: 0.2em;
+  opacity: 0.6;
+}
+
+#about-external-links li:hover {
+  display: inline;
+  padding: 0.2em;
+  opacity: 1;
 }
 
 .content {
@@ -298,4 +307,9 @@ table.logtable td.col2 { width: 460px; align='left'}
   list-style: none;
   padding-left: 0.5em;
   padding-right: 0.5em;
+}
+
+.homepage-header {
+  padding-top: 10%;
+  padding-bottom: 15%;
 }
