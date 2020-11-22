@@ -252,7 +252,7 @@ table.logtable td.col2 { width: 460px; align='left'}
 .photo-gallery {
   width: 100%;
   height: auto;
-  padding-bottom: 10%;
+  padding-bottom: 5%;
 }
 
 .photo {
@@ -312,4 +312,9 @@ table.logtable td.col2 { width: 460px; align='left'}
 .homepage-header {
   padding-top: 10%;
   padding-bottom: 15%;
+}
+
+.photo-section-header {
+  padding-bottom: 1%;
+  text-align: center;
 }
