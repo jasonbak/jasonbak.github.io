@@ -26,15 +26,6 @@ ul {
 }
 
 /*----------------------------------------------------------------------------*/
-/*Homepage*/
-
-.banner {
-  width: 95%;
-  display: block;
-  margin: auto;
-}
-
-/*----------------------------------------------------------------------------*/
 /*Life log*/
 
 table.logtable td.col1 { width: 100px; align='left'}
@@ -237,10 +228,6 @@ table.logtable td.col2 { width: 460px; align='left'}
   padding-right: 1em;
 }
 
-.photo-cover {
-  width: 100%;
-}
-
 .header {
   /* font-family: 'Source Serif Pro', serif; */
   font-size: 2em;
@@ -254,11 +241,8 @@ table.logtable td.col2 { width: 460px; align='left'}
   padding-bottom: 5%;
 }
 
-.photo {
-  width: 100%;
-  height: auto;
-  padding-bottom: 5%;
-}
+/*----------------------------------------------------------------------------*/
+/* About */
 
 #about-external-links li {
   display: inline;
@@ -271,7 +255,6 @@ table.logtable td.col2 { width: 460px; align='left'}
   padding: 0.2em;
   opacity: 1;
 }
-
 
 .about {
   font-size: 1.4em;
@@ -302,8 +285,6 @@ table.logtable td.col2 { width: 460px; align='left'}
 }
 
 /*----------------------------------------------------------------------------*/
-
-/*----------------------------------------------------------------------------*/
 /* Homepage */
 
 .homepage-header {
@@ -326,4 +307,8 @@ table.logtable td.col2 { width: 460px; align='left'}
 .photo-section-header {
   padding-bottom: 1%;
   text-align: center;
+}
+
+.photo-cover {
+  width: 100%;
 }
