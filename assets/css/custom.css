@@ -272,11 +272,6 @@ table.logtable td.col2 { width: 460px; align='left'}
   opacity: 1;
 }
 
-.content {
-  font-size: 1.8em;
-  padding-left: 1.2em;
-  padding-right: 1.2em;
-}
 
 .about {
   font-size: 1.4em;
@@ -308,10 +303,20 @@ table.logtable td.col2 { width: 460px; align='left'}
 
 /*----------------------------------------------------------------------------*/
 
+/*----------------------------------------------------------------------------*/
+/* Homepage */
+
 .homepage-header {
-  padding-top: 10%;
-  padding-bottom: 15%;
+  padding-bottom: 12%;
 }
+
+.homepage-content {
+  font-size: 1.8em;
+  padding-left: 1.2em;
+  padding-right: 1.2em;
+}
+
+/*----------------------------------------------------------------------------*/
 
 .photo-section-header {
   padding-bottom: 1%;
