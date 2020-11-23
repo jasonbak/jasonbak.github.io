@@ -244,6 +244,10 @@ table.logtable td.col2 { width: 460px; align='left'}
 /*----------------------------------------------------------------------------*/
 /* About */
 
+#about-external-links {
+  padding-top: 1em;
+}
+
 #about-external-links li {
   display: inline;
   padding: 0.2em;
@@ -251,8 +255,6 @@ table.logtable td.col2 { width: 460px; align='left'}
 }
 
 #about-external-links li:hover {
-  display: inline;
-  padding: 0.2em;
   opacity: 1;
 }
 
