@@ -290,3 +290,11 @@ table.logtable td.col2 { width: 460px; align='left'}
 .photo-cover {
   width: 100%;
 }
+
+.card-hr {
+  text-align: left;
+  height: 1px;
+  width: 60px;
+  margin-left: 0;
+  background: black;
+}
