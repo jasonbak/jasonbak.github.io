@@ -263,30 +263,6 @@ table.logtable td.col2 { width: 460px; align='left'}
 }
 
 /*----------------------------------------------------------------------------*/
-/* Footer */
-
-.footer {
-  width: 100%;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  background-color: rgb(245, 245, 245);
-  /* background-color: rgb(25, 25, 25); */
-  text-align: center;
-  bottom: 0; /* Keep footer at bottom of the page */
-  position: fixed;
-}
-.footer ul {
-  margin-bottom: 0;
-  padding: 0;
-}
-.footer li {
-  display: inline-block;
-  list-style: none;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
-}
-
-/*----------------------------------------------------------------------------*/
 /* Homepage */
 
 .homepage-header {
