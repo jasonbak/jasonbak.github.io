@@ -32,7 +32,7 @@ table.logtable td.col1 { width: 100px; align='left'}
 table.logtable td.col2 { width: 460px; align='left'}
 
 .logdate {
-  font-size: 12px;
+  font-size: 0.6em;
   color: #999999;
   font-weight: bold;
 }
