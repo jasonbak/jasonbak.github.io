@@ -224,7 +224,8 @@ table.logtable td.col2 { width: 460px; align='left'}
   font-size: 1.2em;
   text-align: right;
   display: block; /* Make the links appear below each other */
-  padding-top: 1em;
+  padding-top: 0.25em;
+  padding-bottom: 0em;
   padding-right: 1em;
 }
 
