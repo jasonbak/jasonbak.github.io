@@ -5,10 +5,6 @@ body {
   font-family: 'Assistant', sans-serif;
 }
 
-p {
-  /* font-size: 1.2em; */
-}
-
 a {
   color: #6b93f2;
   text-decoration: none;
@@ -21,17 +17,17 @@ a:hover {
 
 ul {
   list-style-type: none; /* No bullet points */
-  /* margin-left: 19px; */
   padding: 0;
 }
 
 /*----------------------------------------------------------------------------*/
 /*Life log*/
 
-table.logtable td.col1 { width: 100px; align='left'}
-table.logtable td.col2 { width: 460px; align='left'}
+.life-log {
+  font-size: 1.4em;
+}
 
-.logdate {
+.log-date {
   font-size: 0.6em;
   color: #999999;
   font-weight: bold;
@@ -225,12 +221,10 @@ table.logtable td.col2 { width: 460px; align='left'}
   text-align: right;
   display: block; /* Make the links appear below each other */
   padding-top: 0.25em;
-  padding-bottom: 0em;
   padding-right: 1em;
 }
 
 .header {
-  /* font-family: 'Source Serif Pro', serif; */
   font-size: 2em;
   padding-bottom: 5%;
   font-weight: 500;
