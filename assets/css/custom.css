@@ -1,5 +1,5 @@
-/*Overall frame for site*/
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;500;600;700&display=swap');
+/*----------------------------------------------------------------------------*/
+/* Base CSS */
 
 body {
   font-family: 'Assistant', sans-serif;
@@ -50,6 +50,14 @@ ul {
   padding-bottom: 10%;
 }
 
+.card-hr {
+  text-align: left;
+  height: 1px;
+  width: 60px;
+  margin-left: 0;
+  background: black;
+}
+
 /*----------------------------------------------------------------------------*/
 /* About */
 
@@ -72,26 +80,20 @@ ul {
 }
 
 /*----------------------------------------------------------------------------*/
+/* Photos */
+
+.photos-directory-cover {
+  width: 100%;
+  height: auto;
+}
 
 .photo-section-header {
   padding-bottom: 1%;
   text-align: center;
 }
 
-.photo-cover {
-  width: 100%;
-}
-
-.card-hr {
-  text-align: left;
-  height: 1px;
-  width: 60px;
-  margin-left: 0;
-  background: black;
-}
-
 /*----------------------------------------------------------------------------*/
-/*Life log*/
+/* Life log */
 
 .life-log {
   font-size: 1.4em;
@@ -104,7 +106,7 @@ ul {
 }
 
 /*----------------------------------------------------------------------------*/
-/*Notes list*/
+/* Notes list */
 
 .notes-list-title {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -130,7 +132,7 @@ ul {
 }
 
 /*----------------------------------------------------------------------------*/
-/*Inidvidual note*/
+/* Inidvidual note */
 
 .note-title {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -171,7 +173,7 @@ ul {
 }
 
 /*----------------------------------------------------------------------------*/
-/*Projects list*/
+/* Projects list */
 
 .projects-list-headers {
   margin: 0;
@@ -217,7 +219,7 @@ ul {
 }
 
 /*----------------------------------------------------------------------------*/
-/*Individual project*/
+/* Individual project */
 
 .project-title {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -280,10 +282,4 @@ ul {
   font-size: 17px;
   margin: 0;
   padding: 0;
-}
-
-/*----------------------------------------------------------------------------*/
-/* Extra */
-.nav-link {
-  padding-left: 0 !important;
 }
