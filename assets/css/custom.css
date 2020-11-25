@@ -119,24 +119,23 @@ ul {
 /* Notes list */
 
 .notes-list-title {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 22px;
+  font-size: 1.8em;
   vertical-align: middle;
   vertical-align: middle;
-  line-height: 25px;
-  margin: 1px;
+  line-height: 1.2em;
+  margin: 0;
   padding: 0;
 }
 
 .notes-list-abstract {
   display: block;
-  font-size: 16px;
+  font-size: 1.5em;
   vertical-align: middle;
 }
 
 .notes-list-date {
   color: #666666;
-  font-size: 17px;
+  font-size: 1.4em;
   margin: 0;
   padding: 0;
 }
@@ -144,9 +143,16 @@ ul {
 /*----------------------------------------------------------------------------*/
 /* Inidvidual note */
 
+.note-date {
+  font-size: 1.7em;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
 .note-title {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 35px;
+  font-size: 2.5em;
   text-align: center;
   font-weight: bold;
   margin: 0;
@@ -154,7 +160,7 @@ ul {
 }
 
 .note-abstract {
-  font-size: 17px;
+  font-size: 1.4em;
   text-align: center;
   border-style: solid;
   border-width: 1px;
@@ -164,11 +170,8 @@ ul {
   padding-left: 18px;
 }
 
-.note-date {
-  font-size: 22px;
-  text-align: center;
-  margin: 0;
-  padding: 0;
+#note {
+  font-size: 1.4em;
 }
 
 .note-photo {
@@ -176,10 +179,6 @@ ul {
   height: 80%;
   display: block;
   margin: 0 auto;
-}
-
-#note {
-  font-size: 16px;
 }
 
 /*----------------------------------------------------------------------------*/
