@@ -35,7 +35,8 @@ ul {
 .photo {
   width: 100%;
   height: auto;
-  padding-bottom: 5%;
+  padding-top: 2%;
+  padding-bottom: 3%;
 }
 
 .homepage-content {
@@ -47,10 +48,6 @@ ul {
 /*----------------------------------------------------------------------------*/
 
 /* Index */
-.index-about-me {
-  padding-bottom: 10%;
-}
-
 .card-hr {
   text-align: left;
   height: 1px;
