@@ -21,6 +21,76 @@ ul {
 }
 
 /*----------------------------------------------------------------------------*/
+/* Layouts */
+
+.top-menu-bar {
+  font-size: 1.2em;
+  text-align: right;
+  display: block; /* Make the links appear below each other */
+  padding-top: 0.25em;
+  padding-right: 1em;
+}
+
+.photo {
+  width: 100%;
+  height: auto;
+  padding-bottom: 5%;
+}
+
+.homepage-content {
+  font-size: 1.8em;
+  padding-left: 1.2em;
+  padding-right: 1.2em;
+}
+
+/*----------------------------------------------------------------------------*/
+
+/* Index */
+.index-about-me {
+  padding-bottom: 10%;
+}
+
+/*----------------------------------------------------------------------------*/
+/* About */
+
+.about {
+  font-size: 1.4em;
+}
+
+#about-external-links {
+  padding-top: 0.5em;
+}
+
+#about-external-links li {
+  display: inline;
+  padding: 0.2em;
+  opacity: 0.5;
+}
+
+#about-external-links li:hover {
+  opacity: 1;
+}
+
+/*----------------------------------------------------------------------------*/
+
+.photo-section-header {
+  padding-bottom: 1%;
+  text-align: center;
+}
+
+.photo-cover {
+  width: 100%;
+}
+
+.card-hr {
+  text-align: left;
+  height: 1px;
+  width: 60px;
+  margin-left: 0;
+  background: black;
+}
+
+/*----------------------------------------------------------------------------*/
 /*Life log*/
 
 .life-log {
@@ -212,84 +282,8 @@ ul {
   padding: 0;
 }
 
+/*----------------------------------------------------------------------------*/
+/* Extra */
 .nav-link {
   padding-left: 0 !important;
-}
-
-.top-menu-bar {
-  font-size: 1.2em;
-  text-align: right;
-  display: block; /* Make the links appear below each other */
-  padding-top: 0.25em;
-  padding-right: 1em;
-}
-
-.header {
-  font-size: 2em;
-  padding-bottom: 5%;
-  font-weight: 500;
-}
-
-.photo-gallery {
-  width: 100%;
-  height: auto;
-  padding-bottom: 5%;
-}
-
-/*----------------------------------------------------------------------------*/
-/* About */
-
-#about-external-links {
-  padding-top: 1em;
-}
-
-#about-external-links li {
-  display: inline;
-  padding: 0.2em;
-  opacity: 0.6;
-}
-
-#about-external-links li:hover {
-  opacity: 1;
-}
-
-.about {
-  font-size: 1.4em;
-}
-
-/*----------------------------------------------------------------------------*/
-/* Homepage */
-
-.homepage-header {
-  padding-bottom: 12%;
-}
-
-.homepage-content {
-  font-size: 1.8em;
-  padding-left: 1.2em;
-  padding-right: 1.2em;
-}
-
-/*----------------------------------------------------------------------------*/
-
-.prints {
-  padding-bottom: 70%;
-  margin-bottom: 30em;
-}
-
-.photo-section-header {
-  padding-bottom: 1%;
-  text-align: center;
-}
-
-.photo-cover {
-  width: 100%;
-}
-
-.card-hr {
-  text-align: left;
-  height: 1px;
-  width: 60px;
-  margin-left: 0;
-  background: black;
 }
