@@ -88,8 +88,18 @@ ul {
 }
 
 .photo-section-header {
-  padding-bottom: 1%;
+  padding-bottom: 2%;
   text-align: center;
+}
+
+/*----------------------------------------------------------------------------*/
+/* Prints */
+
+.prints-text {
+  font-size: 1.8em;
+  padding-left: 1.2em;
+  padding-right: 1.2em;
+  padding-bottom: 1.2em;
 }
 
 /*----------------------------------------------------------------------------*/
