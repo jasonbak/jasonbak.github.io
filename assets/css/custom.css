@@ -119,7 +119,7 @@ ul {
 /* Notes list */
 
 .notes-list-title {
-  font-size: 1.8em;
+  font-size: 1.9em;
   vertical-align: middle;
   vertical-align: middle;
   line-height: 1.2em;
@@ -129,13 +129,12 @@ ul {
 
 .notes-list-abstract {
   display: block;
-  font-size: 1.5em;
-  vertical-align: middle;
+  font-size: 1.4em;
 }
 
 .notes-list-date {
   color: #666666;
-  font-size: 1.4em;
+  font-size: 1.3em;
   margin: 0;
   padding: 0;
 }
