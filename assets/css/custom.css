@@ -18,6 +18,7 @@ a:hover {
 ul {
   list-style-type: none; /* No bullet points */
   padding: 0;
+  margin-left: 19px;
 }
 
 /*----------------------------------------------------------------------------*/
@@ -67,6 +68,10 @@ ul {
 
 #about-external-links {
   padding-top: 0.5em;
+}
+
+#about-external-links ul {
+  margin-left: 0;
 }
 
 #about-external-links li {
