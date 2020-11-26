@@ -2,14 +2,16 @@
 layout: default
 ---
 
-<p class="note-date">{{ page.date | date: "%B %-d, %Y" }}</p>
-<p class="note-title">{{ page.note-title }}</p>
-<p class="note-abstract">{{ page.abstract }}</p>
+<div class="modal-body">
+  <p class="note-date">{{ page.date | date: "%B %-d, %Y" }}</p>
+  <p class="note-title">{{ page.note-title }}</p>
+  <p class="note-abstract">{{ page.abstract }}</p>
 
-<br>
+  <br>
 
-<div class="h-100 row align-items-center">
-  <div class="col-md-8 col-md-offset-2" id="note">
-    {{ content }}
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2" id="note">
+      {{ content }}
+    </div>
   </div>
 </div>

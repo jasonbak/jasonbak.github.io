@@ -1,9 +1,11 @@
-/*Overall frame for site*/
+/*----------------------------------------------------------------------------*/
+/* Base CSS */
 
 body {
-  font-family: 'Karla', sans-serif;
+  font-family: 'Assistant', sans-serif;
 }
-a{
+
+a {
   color: #6b93f2;
   text-decoration: none;
 }
@@ -14,64 +16,149 @@ a:hover {
 }
 
 ul {
-  list-style-type: none;
-  margin-left: 19px;
+  list-style-type: none; /* No bullet points */
   padding: 0;
+  margin-left: 19px;
 }
 
 /*----------------------------------------------------------------------------*/
-/*Homepage*/
+/* Layouts */
 
-.banner {
-  width: 95%;
-  display: block;
-  margin: auto;
+.top-menu-bar {
+  font-size: 1.2em;
+  text-align: right;
+  display: block; /* Make the links appear below each other */
+  padding-top: 0.25em;
+  padding-right: 1em;
+}
+
+.photo {
+  width: 100%;
+  height: auto;
+  padding-bottom: 5%;
+}
+
+.homepage-content {
+  font-size: 1.8em;
+  padding-left: 1.2em;
+  padding-right: 1.2em;
 }
 
 /*----------------------------------------------------------------------------*/
-/*Life log*/
+/* Index */
 
-table.logtable td.col1 { width: 100px; align='left'}
-table.logtable td.col2 { width: 460px; align='left'}
+.card-photo {
+  width: 100%;
+  height: auto;
+  padding-top: 2%;
+}
 
-.logdate {
-  font-size: 12px;
-  color: #999999; 
+.card-hr {
+  text-align: left;
+  height: 1px;
+  width: 60px;
+  margin-left: 0;
+  background: black;
+}
+
+/*----------------------------------------------------------------------------*/
+/* About */
+
+.about {
+  font-size: 1.4em;
+}
+
+#about-external-links {
+  padding-top: 0.5em;
+}
+
+#about-external-links ul {
+  margin-left: 0;
+}
+
+#about-external-links li {
+  display: inline;
+  padding: 0.2em;
+  opacity: 0.5;
+}
+
+#about-external-links li:hover {
+  opacity: 1;
+}
+
+/*----------------------------------------------------------------------------*/
+/* Photos */
+
+.photos-directory-cover {
+  width: 100%;
+  height: auto;
+}
+
+.photo-section-header {
+  padding-bottom: 2%;
+  text-align: center;
+}
+
+/*----------------------------------------------------------------------------*/
+/* Prints */
+
+.prints-text {
+  font-size: 1.8em;
+  padding-left: 1.2em;
+  padding-right: 1.2em;
+  padding-bottom: 1.2em;
+}
+
+/*----------------------------------------------------------------------------*/
+/* Life log */
+
+.life-log {
+  font-size: 1.4em;
+}
+
+.log-date {
+  font-size: 0.6em;
+  color: #999999;
   font-weight: bold;
 }
 
 /*----------------------------------------------------------------------------*/
-/*Notes list*/
+/* Notes list */
 
 .notes-list-title {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 22px;
+  font-size: 1.9em;
   vertical-align: middle;
   vertical-align: middle;
-  line-height: 25px; 
-  margin: 1px;
+  line-height: 1.2em;
+  margin: 0;
   padding: 0;
 }
 
 .notes-list-abstract {
   display: block;
-  font-size: 16px;
-  vertical-align: middle;
+  font-size: 1.4em;
 }
 
 .notes-list-date {
   color: #666666;
-  font-size: 17px;
+  font-size: 1.3em;
   margin: 0;
   padding: 0;
 }
 
 /*----------------------------------------------------------------------------*/
-/*Inidvidual note*/
+/* Inidvidual note */
+
+.note-date {
+  font-size: 1.7em;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
 
 .note-title {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 35px;
+  font-size: 2.5em;
   text-align: center;
   font-weight: bold;
   margin: 0;
@@ -79,7 +166,7 @@ table.logtable td.col2 { width: 460px; align='left'}
 }
 
 .note-abstract {
-  font-size: 17px;
+  font-size: 1.4em;
   text-align: center;
   border-style: solid;
   border-width: 1px;
@@ -89,11 +176,8 @@ table.logtable td.col2 { width: 460px; align='left'}
   padding-left: 18px;
 }
 
-.note-date {
-  font-size: 22px;
-  text-align: center;
-  margin: 0;
-  padding: 0;
+#note {
+  font-size: 1.4em;
 }
 
 .note-photo {
@@ -103,12 +187,8 @@ table.logtable td.col2 { width: 460px; align='left'}
   margin: 0 auto;
 }
 
-#note {
-  font-size: 16px;
-}
-
 /*----------------------------------------------------------------------------*/
-/*Projects list*/
+/* Projects list */
 
 .projects-list-headers {
   margin: 0;
@@ -120,7 +200,7 @@ table.logtable td.col2 { width: 460px; align='left'}
   font-size: 22px;
   vertical-align: middle;
   vertical-align: middle;
-  line-height: 25px; 
+  line-height: 25px;
   margin: 1px;
   padding: 0;
 }
@@ -154,7 +234,7 @@ table.logtable td.col2 { width: 460px; align='left'}
 }
 
 /*----------------------------------------------------------------------------*/
-/*Individual project*/
+/* Individual project */
 
 .project-title {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
