@@ -50,7 +50,8 @@ ul {
 .card-photo {
   width: 100%;
   height: auto;
-  padding-top: 2%;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 
 .card-hr {
